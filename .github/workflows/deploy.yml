@@ -37,6 +37,13 @@ jobs:
         run: npm run build
         env:
           NODE_ENV: production
+          VITE_SITE_URL: https://punith-mithra.github.io
+          VITE_SITE_NAME: Punith Mithra
+          VITE_SITE_DESCRIPTION: Professional Architecture & Planning Services - Expert design solutions for residential, commercial, and infrastructure projects
+          VITE_SITE_KEYWORDS: architecture, planning, design, construction, civil engineering, residential design, commercial planning
+          VITE_ADDRESS_COUNTRY: IN
+          VITE_OG_IMAGE: /og-image.jpg
+          VITE_OG_IMAGE_ALT: Punith Mithra - Architecture & Planning Services
       
       - name: Setup Pages
         uses: actions/configure-pages@v4

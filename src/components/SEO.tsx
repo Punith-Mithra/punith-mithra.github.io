@@ -15,43 +15,58 @@ interface SEOProps {
   schema?: Record<string, any>;
 }
 
+// Environment variables with fallbacks
+const SITE_URL = import.meta.env.VITE_SITE_URL || 'https://punith-mithra.github.io';
+const SITE_NAME = import.meta.env.VITE_SITE_NAME || 'Punith Mithra';
+const SITE_DESCRIPTION = import.meta.env.VITE_SITE_DESCRIPTION || 'Professional Architecture & Planning Services';
+const SITE_KEYWORDS = import.meta.env.VITE_SITE_KEYWORDS || 'architecture, planning, design, construction, civil engineering';
+const OG_IMAGE_DEFAULT = import.meta.env.VITE_OG_IMAGE || '/og-image.jpg';
+const OG_IMAGE_ALT_DEFAULT = import.meta.env.VITE_OG_IMAGE_ALT || `${SITE_NAME} - Architecture & Planning Services`;
+const ADDRESS_COUNTRY = import.meta.env.VITE_ADDRESS_COUNTRY || 'IN';
+const TWITTER_HANDLE = import.meta.env.VITE_TWITTER_HANDLE;
+
 export const SEO: React.FC<SEOProps> = ({
   title,
   description,
-  keywords = 'architecture, planning, design, construction, civil engineering',
+  keywords = SITE_KEYWORDS,
   canonical,
   ogType = 'website',
-  ogImage = '/og-image.jpg',
-  ogImageAlt = 'Punith Mithra - Architecture & Planning Services',
+  ogImage = OG_IMAGE_DEFAULT,
+  ogImageAlt = OG_IMAGE_ALT_DEFAULT,
   twitterCard = 'summary_large_image',
-  author = 'Punith Mithra',
+  author = SITE_NAME,
   publishedTime,
   modifiedTime,
   schema,
 }) => {
-  const siteUrl = 'https://punith-mithra.github.io';
-  const fullTitle = `${title} | Punith Mithra`;
+  const siteUrl = SITE_URL;
+  const siteName = SITE_NAME;
+  const fullTitle = `${title} | ${siteName}`;
   const canonicalUrl = canonical || `${siteUrl}${window.location.pathname}`;
   const imageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+
+  // Build social media links array from environment
+  const socialLinks = [
+    import.meta.env.VITE_SOCIAL_LINKEDIN,
+    import.meta.env.VITE_SOCIAL_TWITTER,
+    import.meta.env.VITE_SOCIAL_FACEBOOK,
+    import.meta.env.VITE_SOCIAL_INSTAGRAM,
+  ].filter(Boolean); // Remove undefined values
 
   // Default Organization Schema
   const defaultSchema = {
     '@context': 'https://schema.org',
     '@type': 'ProfessionalService',
-    name: 'Punith Mithra',
-    description: 'Professional Architecture & Planning Services',
+    name: siteName,
+    description: SITE_DESCRIPTION,
     url: siteUrl,
     logo: `${siteUrl}/logo.png`,
     image: imageUrl,
     address: {
       '@type': 'PostalAddress',
-      addressCountry: 'IN',
+      addressCountry: ADDRESS_COUNTRY,
     },
-    sameAs: [
-      // Add your social media profiles here
-      // 'https://linkedin.com/in/yourprofile',
-      // 'https://twitter.com/yourprofile',
-    ],
+    ...(socialLinks.length > 0 && { sameAs: socialLinks }),
   };
 
   const schemaData = schema || defaultSchema;
