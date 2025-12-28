@@ -1,4 +1,5 @@
 import React from 'react';
+import { SEO } from '@/components/SEO';
 import { Link } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
 import { motion } from 'framer-motion';
@@ -14,6 +15,19 @@ import {
 } from 'lucide-react';
 
 export default function About() {
+  const aboutSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: 'About Punith Mithra',
+    description: 'Learn about our journey, mission, and expertise in architecture and planning services',
+    mainEntity: {
+      '@type': 'Organization',
+      name: 'Punith Mithra',
+      foundingDate: '2008',
+      description: 'Professional Architecture & Planning Services Provider',
+    },
+  };
+
   const milestones = [
     { year: '2008', title: 'Company Founded', description: 'Started with a vision to provide quality kitchen solutions' },
     { year: '2012', title: 'Laundry Division', description: 'Expanded to include commercial laundry solutions' },
@@ -41,6 +55,12 @@ export default function About() {
 
   return (
     <div>
+      <SEO
+        title="About Us"
+        description="Learn about Punith Mithra's journey in architecture and planning. Discover our mission, expertise, and commitment to delivering exceptional design solutions since 2008."
+        keywords="about us, architecture firm, planning services, company history, professional team, design expertise"
+        schema={aboutSchema}
+      />
       {/* Hero Section */}
       <section className="relative py-24 bg-slate-900 overflow-hidden">
         <div className="absolute inset-0">

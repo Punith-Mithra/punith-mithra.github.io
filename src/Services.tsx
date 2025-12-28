@@ -1,4 +1,5 @@
 import React from 'react';
+import { SEO } from '@/components/SEO';
 import { Link } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
 import { motion } from 'framer-motion';
@@ -24,6 +25,50 @@ import {
 } from 'lucide-react';
 
 export default function Services() {
+  const servicesSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    serviceType: 'Architecture and Planning Services',
+    provider: {
+      '@type': 'Organization',
+      name: 'Punith Mithra',
+    },
+    areaServed: {
+      '@type': 'GeoCircle',
+      name: 'Global',
+    },
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Architecture Services',
+      itemListElement: [
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Kitchen & Laundry Design',
+            description: 'Professional kitchen and laundry layout planning and design',
+          },
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Supply & Installation',
+            description: 'Complete supply and installation of equipment and materials',
+          },
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Maintenance & Support',
+            description: 'Ongoing maintenance and technical support services',
+          },
+        },
+      ],
+    },
+  };
+
   const mainServices = [
     {
       icon: Ruler,
@@ -88,6 +133,12 @@ export default function Services() {
 
   return (
     <div>
+      <SEO
+        title="Services"
+        description="Comprehensive architecture and planning services including kitchen & laundry design, supply & installation, maintenance, and project consultation. Expert solutions for commercial and residential projects."
+        keywords="architecture services, planning services, kitchen design, laundry planning, supply installation, maintenance, project consultation"
+        schema={servicesSchema}
+      />
       {/* Hero Section */}
       <section className="relative py-24 bg-slate-900 overflow-hidden">
         <div className="absolute inset-0">

@@ -1,4 +1,5 @@
 import React from 'react';
+import { SEO } from '@/components/SEO';
 import HeroSection from '@/components/home/HeroSection';
 import ClientsSection from '@/components/home/ClientsSection';
 import ServicesOverview from '@/components/home/ServicesOverview';
@@ -10,8 +11,27 @@ import { motion } from 'framer-motion';
 import { ArrowRight, Phone } from 'lucide-react';
 
 export default function Home() {
+  const homeSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Punith Mithra',
+    description: 'Professional Architecture & Planning Services - Transforming Visions into Reality',
+    url: 'https://punith-mithra.github.io',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: 'https://punith-mithra.github.io/projects?search={search_term_string}',
+      'query-input': 'required name=search_term_string',
+    },
+  };
+
   return (
     <div>
+      <SEO
+        title="Home"
+        description="Professional Architecture & Planning Services - Expert design solutions for residential, commercial, and infrastructure projects. Transform your vision into reality with our innovative approach."
+        keywords="architecture, planning, design, construction, civil engineering, residential design, commercial planning, infrastructure development"
+        schema={homeSchema}
+      />
       <HeroSection />
       <ClientsSection />
       <ServicesOverview />

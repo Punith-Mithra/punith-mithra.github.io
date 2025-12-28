@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { SEO } from '@/components/SEO';
 import { useQuery } from '@tanstack/react-query';
 import { base44 } from '@/api/base44Client';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -24,6 +25,26 @@ export default function Projects() {
     queryKey: ['projects'],
     queryFn: () => base44.entities.Project.list('-created_date'),
   });
+
+  const projectsSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Projects Portfolio',
+    description: 'Browse our portfolio of completed architecture and planning projects',
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: projects.slice(0, 10).map((project, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        item: {
+          '@type': 'CreativeWork',
+          name: project.title,
+          description: project.description,
+          locationCreated: project.location,
+        },
+      })),
+    },
+  };
 
   const categories = [
     { value: 'all', label: 'All Projects' },
@@ -72,6 +93,12 @@ export default function Projects() {
 
   return (
     <div>
+      <SEO
+        title="Projects"
+        description="Explore our diverse portfolio of architecture and planning projects including hotels, restaurants, hospitals, and commercial kitchens. View our completed work and success stories."
+        keywords="architecture projects, planning portfolio, commercial projects, hotel design, restaurant design, hospital projects"
+        schema={projectsSchema}
+      />
       {/* Hero Section */}
       <section className="relative py-24 bg-slate-900 overflow-hidden">
         <div className="absolute inset-0">

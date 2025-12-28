@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { SEO } from '@/components/SEO';
 import { useMutation } from '@tanstack/react-query';
 import { base44, ContactInquiryData } from '@/api/base44Client';
 import { motion } from 'framer-motion';
@@ -19,6 +20,22 @@ import { Textarea } from '@/components/ui/textarea';
 import { Label } from '@/components/ui/label';
 
 export default function Contact() {
+  const contactSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ContactPage',
+    name: 'Contact Punith Mithra',
+    description: 'Get in touch with us for architecture and planning inquiries',
+    mainEntity: {
+      '@type': 'Organization',
+      name: 'Punith Mithra',
+      contactPoint: {
+        '@type': 'ContactPoint',
+        contactType: 'Customer Service',
+        availableLanguage: 'English',
+      },
+    },
+  };
+
   const [formData, setFormData] = useState({
     name: '',
     company_name: '',
@@ -82,6 +99,12 @@ export default function Contact() {
 
   return (
     <div>
+      <SEO
+        title="Contact Us"
+        description="Get in touch with Punith Mithra for architecture and planning inquiries. Contact us for project consultations, quotations, and professional design services."
+        keywords="contact us, architecture inquiry, planning consultation, get quote, contact form, reach us"
+        schema={contactSchema}
+      />
       {/* Hero Section */}
       <section className="relative py-24 bg-slate-900 overflow-hidden">
         <div className="absolute inset-0">
