@@ -45,22 +45,27 @@ export default function Navbar() {
 
       {/* Main Navigation */}
       <header
-        className={`sticky top-0 z-50 transition-all duration-300 ${
+        className={`sticky top-0 z-50 transition-all duration-200 ease-out ${
           scrolled 
             ? 'bg-white/95 backdrop-blur-md shadow-lg' 
             : 'bg-white'
         }`}
       >
-        <nav className="max-w-7xl mx-auto px-6 py-4">
+        <nav className={`max-w-7xl mx-auto px-6 transition-all duration-200 ease-out ${scrolled ? 'py-2' : 'py-4'
+          }`}>
           <div className="flex items-center justify-between">
             {/* Logo */}
             <Link to={createPageUrl('Home')} className="flex items-center gap-3">
-              <div className="w-12 h-12 bg-gradient-to-br from-blue-600 to-blue-800 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">AI</span>
+              <div className={`bg-gradient-to-br from-blue-600 to-blue-800 rounded-lg flex items-center justify-center transition-all duration-200 ease-out ${scrolled ? 'w-10 h-10' : 'w-12 h-12'
+                }`}>
+                <span className={`text-white font-bold transition-all duration-200 ease-out ${scrolled ? 'text-base' : 'text-lg'
+                  }`}>AI</span>
               </div>
-              <div>
-                <h1 className="text-xl font-bold text-slate-900 tracking-tight">AL IMTIYAZ</h1>
-                <p className="text-xs text-slate-500 tracking-wide">PROFESSIONAL SOLUTIONS</p>
+              <div className="transition-all duration-200 ease-out">
+                <h1 className={`font-bold text-slate-900 tracking-tight transition-all duration-200 ease-out ${scrolled ? 'text-lg' : 'text-xl'
+                  }`}>AL IMTIYAZ</h1>
+                <p className={`text-slate-500 tracking-wide transition-all duration-200 ease-out ${scrolled ? 'text-[10px]' : 'text-xs'
+                  }`}>PROFESSIONAL SOLUTIONS</p>
               </div>
             </Link>
 

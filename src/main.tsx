@@ -8,11 +8,10 @@ const rootElement = document.getElementById('root')!;
 // Check if the app was pre-rendered by react-snap
 if (rootElement.hasChildNodes()) {
   // Pre-rendered content exists, hydrate it (makes it interactive)
+  // Don't use StrictMode during hydration to avoid mismatches
   hydrateRoot(
     rootElement,
-    <React.StrictMode>
-      <App />
-    </React.StrictMode>
+    <App />
   );
 } else {
   // No pre-rendered content, render normally (development mode)

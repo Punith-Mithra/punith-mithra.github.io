@@ -32,8 +32,11 @@
       "--disable-setuid-sandbox",
       "--disable-dev-shm-usage"
     ],
-    "waitFor": 1000,
-    "concurrency": 4
+    "waitFor": 2000,
+    "concurrency": 1,
+    "inlineCss": true,
+    "removeBlobs": true,
+    "fixWebpackChunksIssue": false
   },
   "dependencies": {
     "@tanstack/react-query": "^5.13.4",
