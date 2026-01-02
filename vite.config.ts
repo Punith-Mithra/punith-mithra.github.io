@@ -44,9 +44,13 @@ export default defineConfig(({ mode }) => {
     },
     build: {
       minify: 'terser',
+      target: 'es2015', // Support older browsers for react-snap
       terserOptions: {
         compress: {
           drop_console: true,
+        },
+        format: {
+          ecma: 2015, // Target ES2015 for better compatibility
         },
       },
       rollupOptions: {
