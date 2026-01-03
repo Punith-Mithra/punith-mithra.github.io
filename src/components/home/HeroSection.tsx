@@ -20,12 +20,23 @@ export default function HeroSection() {
           alt="Commercial Kitchen"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-slate-900/95 via-slate-900/80 to-slate-900/40" />
+        <div 
+          className="absolute inset-0"
+          style={{
+            background: 'linear-gradient(to right, rgba(15, 23, 42, 0.95), rgba(15, 23, 42, 0.8), rgba(15, 23, 42, 0.4))'
+          }}
+        />
       </div>
 
       {/* Decorative Elements */}
-      <div className="absolute top-20 right-10 w-72 h-72 bg-blue-500/20 rounded-full blur-3xl" />
-      <div className="absolute bottom-20 left-10 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl" />
+      <div 
+        className="absolute top-20 right-10 w-72 h-72 rounded-full blur-3xl"
+        style={{ background: 'rgba(59, 130, 246, 0.2)' }}
+      />
+      <div 
+        className="absolute bottom-20 left-10 w-96 h-96 rounded-full blur-3xl"
+        style={{ background: 'rgba(37, 99, 235, 0.1)' }}
+      />
 
       <div className="relative max-w-7xl mx-auto px-6 py-20">
         <div className="max-w-3xl">
@@ -47,7 +58,12 @@ export default function HeroSection() {
             className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6"
           >
             Complete Kitchen &<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-400">
+            <span 
+              className="text-transparent bg-clip-text"
+              style={{
+                backgroundImage: 'linear-gradient(to right, rgb(96, 165, 250), rgb(34, 211, 238))'
+              }}
+            >
               Laundry Solutions
             </span>
           </motion.h1>
