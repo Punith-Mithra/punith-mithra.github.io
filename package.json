@@ -34,7 +34,7 @@
       "--disable-dev-shm-usage"
     ],
     "waitFor": 2000,
-    "concurrency": 1,
+    "concurrency": 4,
     "inlineCss": true,
     "removeBlobs": true,
     "fixWebpackChunksIssue": false

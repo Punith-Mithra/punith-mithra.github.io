@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { SEO } from '@/components/SEO';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Filter, ChefHat, X } from 'lucide-react';
+import PageHero from '@/components/common/PageHero';
 import equipmentsData from '@/components/products/equipments.json';
 
 interface Equipment {
@@ -159,36 +160,11 @@ export default function Products() {
         schema={productSchema}
       />
 
-      {/* Hero Section */}
-          <section className="relative py-20 overflow-hidden">
-        <div className="absolute inset-0">
-          <img
-            src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1920&q=80"
-            alt="Kitchen Equipment"
-                      className="w-full h-full object-cover"
-          />
-                  <div className="absolute inset-0 bg-gradient-to-b from-slate-900/90 via-slate-900/80 to-slate-900/95" />
-        </div>
-
-        <div className="max-w-7xl mx-auto px-6 relative">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="max-w-3xl"
-          >
-            <span className="inline-block px-4 py-1.5 bg-blue-600/20 text-blue-400 rounded-full text-sm font-medium mb-4">
-              Our Products
-            </span>
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-              Equipment Catalog
-            </h1>
-            <p className="text-xl text-slate-300">
-              Explore our comprehensive range of professional kitchen and laundry equipment. 
-              {equipmentsData.length}+ products across {categories.length - 1} categories.
-            </p>
-          </motion.div>
-        </div>
-      </section>
+      <PageHero
+        badge="Our Products"
+        title="Equipment Catalog"
+        subtitle={`Explore our comprehensive range of professional kitchen and laundry equipment. ${equipmentsData.length}+ products across ${categories.length - 1} categories.`}
+      />
 
       {/* Search and Filter Section */}
       <section className="bg-white border-b sticky top-0 z-40 shadow-sm">

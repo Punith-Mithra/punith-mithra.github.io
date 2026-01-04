@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
 import { Menu, X, Phone, Mail } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { CONTACT, COMPANY, NAV_LINKS } from '@/constants';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -16,31 +17,22 @@ export default function Navbar() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const navLinks = [
-    { name: 'Home', path: 'Home' },
-    { name: 'About Us', path: 'About' },
-    { name: 'Services', path: 'Services' },
-    { name: 'Projects', path: 'Projects' },
-    { name: 'Products', path: 'Products' },
-    { name: 'Contact', path: 'Contact' },
-  ];
-
   return (
     <>
       {/* Top Bar */}
       <div className="hidden md:block bg-slate-900 text-white py-2">
         <div className="max-w-7xl mx-auto px-6 flex justify-between items-center text-sm">
           <div className="flex items-center gap-6">
-            <a href="tel:+96812345678" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+            <a href={CONTACT.phone.link} className="flex items-center gap-2 hover:text-blue-400 transition-colors">
               <Phone className="w-4 h-4" />
-              <span>+968 1234 5678</span>
+              <span>{CONTACT.phone.display}</span>
             </a>
-            <a href="mailto:info@alimtiyaz.com" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+            <a href={CONTACT.email.link} className="flex items-center gap-2 hover:text-blue-400 transition-colors">
               <Mail className="w-4 h-4" />
-              <span>info@alimtiyaz.com</span>
+              <span>{CONTACT.email.display}</span>
             </a>
           </div>
-          <p className="text-slate-400">Professional Kitchen & Laundry Solutions</p>
+          <p className="text-slate-400">{COMPANY.taglineShort}</p>
         </div>
       </div>
 
@@ -72,7 +64,7 @@ export default function Navbar() {
 
             {/* Desktop Navigation */}
             <div className="hidden lg:flex items-center gap-8">
-              {navLinks.map((link) => (
+              {NAV_LINKS.map((link) => (
                 <Link
                   key={link.path}
                   to={createPageUrl(link.path)}
@@ -110,7 +102,7 @@ export default function Navbar() {
               className="lg:hidden bg-white border-t"
             >
               <div className="px-6 py-4 space-y-2">
-                {navLinks.map((link) => (
+                {NAV_LINKS.map((link) => (
                   <Link
                     key={link.path}
                     to={createPageUrl(link.path)}

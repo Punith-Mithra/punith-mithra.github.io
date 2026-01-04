@@ -3,6 +3,7 @@ import { SEO } from '@/components/SEO';
 import { useMutation } from '@tanstack/react-query';
 import { base44, ContactInquiryData } from '@/api/base44Client';
 import { motion } from 'framer-motion';
+import PageHero from '@/components/common/PageHero';
 import { 
   Phone, 
   Mail, 
@@ -18,16 +19,17 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Label } from '@/components/ui/label';
+import { CONTACT, COMPANY } from '@/constants';
 
 export default function Contact() {
   const contactSchema = {
     '@context': 'https://schema.org',
     '@type': 'ContactPage',
-    name: 'Contact Punith Mithra',
+    name: `Contact ${COMPANY.fullName}`,
     description: 'Get in touch with us for architecture and planning inquiries',
     mainEntity: {
       '@type': 'Organization',
-      name: 'Punith Mithra',
+      name: COMPANY.fullName,
       contactPoint: {
         '@type': 'ContactPoint',
         contactType: 'Customer Service',
@@ -74,25 +76,25 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Phone',
-      content: '+968 1234 5678',
-      link: 'tel:+96812345678',
+      content: CONTACT.phone.display,
+      link: CONTACT.phone.link,
     },
     {
       icon: Mail,
       title: 'Email',
-      content: 'info@alimtiyaz.com',
-      link: 'mailto:info@alimtiyaz.com',
+      content: CONTACT.email.display,
+      link: CONTACT.email.link,
     },
     {
       icon: MapPin,
       title: 'Address',
-      content: 'Muscat, Sultanate of Oman',
+      content: CONTACT.address.full,
       link: null,
     },
     {
       icon: Clock,
       title: 'Working Hours',
-      content: 'Sun - Thu: 8:00 AM - 6:00 PM',
+      content: CONTACT.workingHours.display,
       link: null,
     },
   ];
@@ -105,36 +107,12 @@ export default function Contact() {
         keywords="contact us, architecture inquiry, planning consultation, get quote, contact form, reach us"
         schema={contactSchema}
       />
-      {/* Hero Section */}
-      <section className="relative py-24 bg-slate-900 overflow-hidden">
-        <div className="absolute inset-0">
-          <img
-            src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1920&q=80"
-            alt="Contact Us"
-            className="w-full h-full object-cover opacity-20"
-          />
-          <div className="absolute inset-0 bg-gradient-dark-overlay" />
-        </div>
-        
-        <div className="max-w-7xl mx-auto px-6 relative">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="max-w-3xl"
-          >
-            <span className="inline-block px-4 py-1.5 bg-blue-600/20 text-blue-400 rounded-full text-sm font-medium mb-4">
-              Contact Us
-            </span>
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-              Get in Touch
-            </h1>
-            <p className="text-xl text-slate-300">
-              Have a project in mind? Let's discuss how we can help you achieve 
-              your kitchen and laundry facility goals.
-            </p>
-          </motion.div>
-        </div>
-      </section>
+      
+      <PageHero
+        badge="Contact Us"
+        title="Get in Touch"
+        subtitle="Have a project in mind? Let's discuss how we can help you achieve your kitchen and laundry facility goals."
+      />
 
       {/* Contact Section */}
       <section className="py-24 bg-white">

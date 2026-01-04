@@ -3,6 +3,7 @@ import { SEO } from '@/components/SEO';
 import { Link } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
 import { motion } from 'framer-motion';
+import PageHero from '@/components/common/PageHero';
 import { 
   Ruler, 
   Truck, 
@@ -139,36 +140,13 @@ export default function Services() {
         keywords="architecture services, planning services, kitchen design, laundry planning, supply installation, maintenance, project consultation"
         schema={servicesSchema}
       />
-      {/* Hero Section */}
-      <section className="relative py-24 bg-slate-900 overflow-hidden">
-        <div className="absolute inset-0">
-          <img
-            src="https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=1920&q=80"
-            alt="Kitchen Equipment"
-            className="w-full h-full object-cover opacity-20"
-          />
-          <div className="absolute inset-0 bg-gradient-dark-overlay" />
-        </div>
-        
-        <div className="max-w-7xl mx-auto px-6 relative">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="max-w-3xl"
-          >
-            <span className="inline-block px-4 py-1.5 bg-blue-600/20 text-blue-400 rounded-full text-sm font-medium mb-4">
-              Our Services
-            </span>
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-              Complete Kitchen & Laundry Solutions
-            </h1>
-            <p className="text-xl text-slate-300">
-              From design and planning to equipment supply, installation, and maintenance – 
-              we provide end-to-end solutions for all your needs.
-            </p>
-          </motion.div>
-        </div>
-      </section>
+      
+      <PageHero
+        badge="Our Services"
+        title="Complete Kitchen & Laundry Solutions"
+        subtitle="From design and planning to equipment supply, installation, and maintenance – we provide end-to-end solutions for all your needs."
+        backgroundImage="https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=1920&q=80"
+      />
 
       {/* Main Services */}
       <section className="py-24 bg-white">

@@ -20,12 +20,28 @@ export default function HeroSection() {
           alt="Commercial Kitchen"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 hero-gradient-overlay" />
+        {/* Dark gradient overlay - inline to prevent stripping */}
+        <div 
+          className="absolute inset-0"
+          style={{
+            background: 'linear-gradient(to bottom, rgba(15, 23, 42, 0.8), rgb(15, 23, 42))',
+          }}
+        />
       </div>
 
       {/* Decorative Elements */}
-      <div className="absolute top-20 right-10 w-72 h-72 decorative-blur-primary rounded-full blur-3xl" />
-      <div className="absolute bottom-20 left-10 w-96 h-96 decorative-blur-primary-light rounded-full blur-3xl" />
+      <div 
+        className="absolute top-20 right-10 w-72 h-72 rounded-full blur-3xl"
+        style={{
+          background: 'radial-gradient(circle, rgba(37, 99, 235, 0.3), transparent)',
+        }}
+      />
+      <div 
+        className="absolute bottom-20 left-10 w-96 h-96 rounded-full blur-3xl"
+        style={{
+          background: 'radial-gradient(circle, rgba(96, 165, 250, 0.2), transparent)',
+        }}
+      />
 
       <div className="relative max-w-7xl mx-auto px-6 py-20">
         <div className="max-w-3xl">
@@ -34,8 +50,17 @@ export default function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <span className="badge-primary mb-6">
-              <span className="w-2 h-2 bg-primary-light rounded-full animate-pulse" />
+            <span 
+              className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6"
+              style={{
+                backgroundColor: 'rgba(37, 99, 235, 0.2)',
+                color: 'rgb(96, 165, 250)',
+              }}
+            >
+              <span 
+                className="w-2 h-2 rounded-full animate-pulse"
+                style={{ backgroundColor: 'rgb(96, 165, 250)' }}
+              />
               Professional Kitchen & Laundry Solutions
             </span>
           </motion.div>
@@ -47,7 +72,12 @@ export default function HeroSection() {
             className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6"
           >
             Complete Kitchen &<br />
-            <span className="text-gradient-primary text-transparent bg-clip-text">
+            <span 
+              className="text-transparent bg-clip-text"
+              style={{
+                backgroundImage: 'linear-gradient(to right, rgb(59, 130, 246), rgb(37, 99, 235))',
+              }}
+            >
               Laundry Solutions
             </span>
           </motion.h1>
@@ -69,8 +99,11 @@ export default function HeroSection() {
             className="flex flex-wrap gap-4 mb-10"
           >
             {highlights.map((item) => (
-              <div key={item} className="flex items-center gap-2 text-text-tertiary">
-                <CheckCircle2 className="w-5 h-5 text-primary-light" />
+              <div key={item} className="flex items-center gap-2 text-slate-300">
+                <CheckCircle2 
+                  className="w-5 h-5"
+                  style={{ color: 'rgb(96, 165, 250)' }}
+                />
                 <span>{item}</span>
               </div>
             ))}
@@ -84,7 +117,19 @@ export default function HeroSection() {
           >
             <Link
               to={createPageUrl('Contact')}
-              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary hover:bg-primary-hover text-text-on-primary font-semibold rounded-xl transition-all duration-300 hover:shadow-xl hover:shadow-primary/30"
+              className="inline-flex items-center justify-center gap-2 px-8 py-4 text-white font-semibold rounded-xl transition-all duration-300 hover:shadow-xl"
+              style={{
+                backgroundColor: 'rgb(37, 99, 235)',
+                boxShadow: 'none',
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.backgroundColor = 'rgb(29, 78, 216)';
+                e.currentTarget.style.boxShadow = '0 20px 25px -5px rgba(37, 99, 235, 0.3)';
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.backgroundColor = 'rgb(37, 99, 235)';
+                e.currentTarget.style.boxShadow = 'none';
+              }}
             >
               Get Free Consultation
               <ArrowRight className="w-5 h-5" />
@@ -111,7 +156,7 @@ export default function HeroSection() {
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="text-2xl md:text-3xl font-bold text-white">{stat.value}</div>
-                <div className="text-sm text-text-tertiary">{stat.label}</div>
+                <div className="text-sm text-slate-300">{stat.label}</div>
               </div>
             ))}
           </div>

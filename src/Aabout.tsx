@@ -3,6 +3,7 @@ import { SEO } from '@/components/SEO';
 import { Link } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
 import { motion } from 'framer-motion';
+import PageHero from '@/components/common/PageHero';
 import { 
   Award, 
   Target, 
@@ -61,36 +62,12 @@ export default function About() {
         keywords="about us, architecture firm, planning services, company history, professional team, design expertise"
         schema={aboutSchema}
       />
-      {/* Hero Section */}
-      <section className="relative py-24 bg-slate-900 overflow-hidden">
-        <div className="absolute inset-0">
-          <img
-            src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1920&q=80"
-            alt="Commercial Kitchen"
-            className="w-full h-full object-cover opacity-20"
-          />
-          <div className="absolute inset-0 bg-gradient-dark-overlay" />
-        </div>
-        
-        <div className="max-w-7xl mx-auto px-6 relative">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="max-w-3xl"
-          >
-            <span className="inline-block px-4 py-1.5 bg-blue-600/20 text-blue-400 rounded-full text-sm font-medium mb-4">
-              About Us
-            </span>
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-              Building Excellence in Kitchen & Laundry Solutions
-            </h1>
-            <p className="text-xl text-slate-300">
-              AL IMTIYAZ has been at the forefront of commercial kitchen and laundry 
-              facility planning for over 15 years.
-            </p>
-          </motion.div>
-        </div>
-      </section>
+      
+      <PageHero
+        badge="About Us"
+        title="Building Excellence in Kitchen & Laundry Solutions"
+        subtitle="AL IMTIYAZ has been at the forefront of commercial kitchen and laundry facility planning for over 15 years."
+      />
 
       {/* Main Content */}
       <section className="py-24 bg-white">
