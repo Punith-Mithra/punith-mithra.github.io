@@ -113,7 +113,7 @@ export default function Contact() {
             alt="Contact Us"
             className="w-full h-full object-cover opacity-20"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-slate-900/80 to-slate-900" />
+          <div className="absolute inset-0 bg-gradient-dark-overlay" />
         </div>
         
         <div className="max-w-7xl mx-auto px-6 relative">

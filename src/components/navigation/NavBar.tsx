@@ -56,7 +56,7 @@ export default function Navbar() {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <Link to={createPageUrl('Home')} className="flex items-center gap-3">
-              <div className={`bg-gradient-to-br from-blue-600 to-blue-800 rounded-lg flex items-center justify-center transition-all duration-200 ease-out ${scrolled ? 'w-10 h-10' : 'w-12 h-12'
+              <div className={`bg-gradient-primary rounded-lg flex items-center justify-center transition-all duration-200 ease-out ${scrolled ? 'w-10 h-10' : 'w-12 h-12'
                 }`}>
                 <span className={`text-white font-bold transition-all duration-200 ease-out ${scrolled ? 'text-base' : 'text-lg'
                   }`}>AI</span>

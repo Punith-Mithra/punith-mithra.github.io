@@ -20,23 +20,12 @@ export default function HeroSection() {
           alt="Commercial Kitchen"
           className="w-full h-full object-cover"
         />
-        <div 
-          className="absolute inset-0"
-          style={{
-            background: 'linear-gradient(to right, rgba(15, 23, 42, 0.95), rgba(15, 23, 42, 0.8), rgba(15, 23, 42, 0.4))'
-          }}
-        />
+        <div className="absolute inset-0 hero-gradient-overlay" />
       </div>
 
       {/* Decorative Elements */}
-      <div 
-        className="absolute top-20 right-10 w-72 h-72 rounded-full blur-3xl"
-        style={{ background: 'rgba(59, 130, 246, 0.2)' }}
-      />
-      <div 
-        className="absolute bottom-20 left-10 w-96 h-96 rounded-full blur-3xl"
-        style={{ background: 'rgba(37, 99, 235, 0.1)' }}
-      />
+      <div className="absolute top-20 right-10 w-72 h-72 decorative-blur-primary rounded-full blur-3xl" />
+      <div className="absolute bottom-20 left-10 w-96 h-96 decorative-blur-primary-light rounded-full blur-3xl" />
 
       <div className="relative max-w-7xl mx-auto px-6 py-20">
         <div className="max-w-3xl">
@@ -45,8 +34,8 @@ export default function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <span className="inline-flex items-center gap-2 px-4 py-2 bg-blue-600/20 text-blue-400 rounded-full text-sm font-medium mb-6 border border-blue-500/30">
-              <span className="w-2 h-2 bg-blue-400 rounded-full animate-pulse" />
+            <span className="badge-primary mb-6">
+              <span className="w-2 h-2 bg-primary-light rounded-full animate-pulse" />
               Professional Kitchen & Laundry Solutions
             </span>
           </motion.div>
@@ -58,12 +47,7 @@ export default function HeroSection() {
             className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6"
           >
             Complete Kitchen &<br />
-            <span 
-              className="text-transparent bg-clip-text"
-              style={{
-                backgroundImage: 'linear-gradient(to right, rgb(96, 165, 250), rgb(34, 211, 238))'
-              }}
-            >
+            <span className="text-gradient-primary text-transparent bg-clip-text">
               Laundry Solutions
             </span>
           </motion.h1>
@@ -85,8 +69,8 @@ export default function HeroSection() {
             className="flex flex-wrap gap-4 mb-10"
           >
             {highlights.map((item) => (
-              <div key={item} className="flex items-center gap-2 text-slate-300">
-                <CheckCircle2 className="w-5 h-5 text-blue-400" />
+              <div key={item} className="flex items-center gap-2 text-text-tertiary">
+                <CheckCircle2 className="w-5 h-5 text-primary-light" />
                 <span>{item}</span>
               </div>
             ))}
@@ -100,7 +84,7 @@ export default function HeroSection() {
           >
             <Link
               to={createPageUrl('Contact')}
-              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl transition-all duration-300 hover:shadow-xl hover:shadow-blue-600/30"
+              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary hover:bg-primary-hover text-text-on-primary font-semibold rounded-xl transition-all duration-300 hover:shadow-xl hover:shadow-primary/30"
             >
               Get Free Consultation
               <ArrowRight className="w-5 h-5" />
@@ -127,7 +111,7 @@ export default function HeroSection() {
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="text-2xl md:text-3xl font-bold text-white">{stat.value}</div>
-                <div className="text-sm text-slate-300">{stat.label}</div>
+                <div className="text-sm text-text-tertiary">{stat.label}</div>
               </div>
             ))}
           </div>

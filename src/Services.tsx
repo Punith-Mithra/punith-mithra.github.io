@@ -147,7 +147,7 @@ export default function Services() {
             alt="Kitchen Equipment"
             className="w-full h-full object-cover opacity-20"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-slate-900/80 to-slate-900" />
+          <div className="absolute inset-0 bg-gradient-dark-overlay" />
         </div>
         
         <div className="max-w-7xl mx-auto px-6 relative">
@@ -325,7 +325,7 @@ export default function Services() {
       </section>
 
       {/* CTA */}
-      <section className="py-24 bg-gradient-to-br from-blue-600 to-blue-800">
+      <section className="py-24 bg-gradient-blue">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <motion.h2
             initial={{ opacity: 0, y: 20 }}

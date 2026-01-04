@@ -22,7 +22,7 @@ export default function Footer() {
   return (
     <footer className="bg-slate-900 text-white">
       {/* CTA Section */}
-      <div className="bg-gradient-to-r from-blue-600 to-blue-700">
+      <div className="bg-gradient-blue-horizontal">
         <div className="max-w-7xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h3 className="text-2xl font-bold">Ready to Start Your Project?</h3>
@@ -44,7 +44,7 @@ export default function Footer() {
           {/* Company Info */}
           <div>
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-700 rounded-lg flex items-center justify-center">
+              <div className="w-12 h-12 bg-gradient-blue-icon rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-lg">AI</span>
               </div>
               <div>

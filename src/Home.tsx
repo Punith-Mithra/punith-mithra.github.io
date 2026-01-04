@@ -39,10 +39,10 @@ export default function Home() {
       <WhyChooseUs />
       
       {/* CTA Section */}
-      <section className="py-24 bg-gradient-to-br from-blue-600 to-blue-800 relative overflow-hidden">
+      <section className="py-24 bg-gradient-blue relative overflow-hidden">
         <div className="absolute inset-0">
-          <div className="absolute top-0 right-0 w-96 h-96 bg-white/10 rounded-full blur-3xl -translate-y-1/2" />
-          <div className="absolute bottom-0 left-0 w-96 h-96 bg-white/10 rounded-full blur-3xl translate-y-1/2" />
+          <div className="absolute top-0 right-0 w-96 h-96 bg-white-blur rounded-full blur-3xl -translate-y-1/2" />
+          <div className="absolute bottom-0 left-0 w-96 h-96 bg-white-blur rounded-full blur-3xl translate-y-1/2" />
         </div>
         
         <div className="max-w-4xl mx-auto px-6 text-center relative">

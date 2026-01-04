@@ -107,7 +107,7 @@ export default function Projects() {
             alt="Our Projects"
             className="w-full h-full object-cover opacity-20"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-slate-900/80 to-slate-900" />
+          <div className="absolute inset-0 bg-gradient-dark-overlay" />
         </div>
         
         <div className="max-w-7xl mx-auto px-6 relative">
@@ -219,7 +219,7 @@ export default function Projects() {
                         alt={project.title}
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                       />
-                      <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+                      <div className="absolute inset-0 bg-gradient-project-overlay" />
                       <Badge className={`absolute top-4 left-4 ${categoryColors[project.category] || 'bg-slate-100 text-slate-700'}`}>
                         {project.category?.replace(/_/g, ' ')}
                       </Badge>

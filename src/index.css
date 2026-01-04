@@ -3,21 +3,321 @@
 @tailwind utilities;
 
 :root {
+  /* ========================================
+         THEME CONFIGURATION
+         Change these values to customize your entire website theme
+         ======================================== */
+  
+    /* Border Radius */
   --radius: 0.5rem;
+
+  /* Primary Brand Colors */
+  --color-primary: 37 99 235; /* Blue-600 */
+  --color-primary-hover: 29 78 216; /* Blue-700 */
+  --color-primary-light: 96 165 250; /* Blue-400 */
+  --color-blue-500: 59 130 246; /* Blue-500 */
+  --color-cyan-400: 34 211 238; /* Cyan-400 */
+
+  /* Background Colors */
+  --color-background: 255 255 255; /* White */
+  --color-background-alt: 248 250 252; /* Slate-50 */
+  --color-background-dark: 15 23 42; /* Slate-900 */
+  --color-slate-700: 51 65 85; /* Slate-700 */
+  --color-slate-600: 71 85 105; /* Slate-600 */
+  --color-black: 0 0 0; /* Black */
+
+  /* Text Colors */
+  --color-text-primary: 15 23 42; /* Slate-900 */
+  --color-text-secondary: 71 85 105; /* Slate-600 */
+  --color-text-tertiary: 148 163 184; /* Slate-400 */
+  --color-text-muted: 203 213 225; /* Slate-300 */
+  --color-text-on-primary: 255 255 255; /* White */
+
+  /* Border & Divider Colors */
+  --color-border: 226 232 240;
+  /* Slate-200 */
+  --color-border-hover: 203 213 225;
+  /* Slate-300 */
+
+  /* Accent Colors */
+  --color-accent-success: 34 197 94;
+  /* Emerald-500 */
+  --color-accent-warning: 245 158 11;
+  /* Amber-500 */
+  --color-accent-error: 239 68 68;
+  /* Red-500 */
+  --color-accent-info: 168 85 247;
+  /* Purple-500 */
+
+  /* Typography Scale (Font Sizes) */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+  --font-size-6xl: 3.75rem;
+
+  /* Spacing Scale */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+
+  /* Shadow Scale */
+  --shadow-sm: 0 1px 2px 0 rgb(var(--color-black) / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(var(--color-black) / 0.1), 0 2px 4px -2px rgb(var(--color-black) / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(var(--color-black) / 0.1), 0 4px 6px -4px rgb(var(--color-black) / 0.1);
+  --shadow-xl: 0 20px 25px -5px rgb(var(--color-black) / 0.1), 0 8px 10px -6px rgb(var(--color-black) / 0.1);
+}
+
+/* Dark Mode Theme Variables (optional - customize as needed) */
+.dark {
+  --color-background: 15 23 42;
+  /* Slate-900 */
+  --color-background-alt: 30 41 59;
+  /* Slate-800 */
+  --color-background-dark: 2 6 23;
+  /* Slate-950 */
+
+  --color-text-primary: 248 250 252;
+  /* Slate-50 */
+  --color-text-secondary: 203 213 225;
+  /* Slate-300 */
+  --color-text-tertiary: 148 163 184;
+  /* Slate-400 */
+  --color-text-muted: 100 116 139;
+  /* Slate-500 */
+
+  --color-border: 51 65 85;
+  /* Slate-700 */
+  --color-border-hover: 71 85 105;
+  /* Slate-600 */
 }
 
 @layer base {
   * {
-    @apply border-slate-200;
+    @apply border-border;
   }
+
   body {
-    @apply bg-white text-slate-900;
+    @apply bg-background text-text-primary;
     font-feature-settings: "rlig" 1, "calt" 1;
   }
+/* Global Typography Styles */
+h1 {
+  @apply text-4xl md:text-5xl lg:text-6xl font-bold;
+}
+
+h2 {
+  @apply text-3xl md:text-4xl font-bold;
+}
+
+h3 {
+  @apply text-2xl md:text-3xl font-semibold;
+}
+
+h4 {
+  @apply text-xl md:text-2xl font-semibold;
+}
+
+h5 {
+  @apply text-lg md:text-xl font-semibold;
+}
+
+h6 {
+  @apply text-base md:text-lg font-semibold;
+}
+
+p {
+  @apply text-base leading-relaxed;
+}
+
+a {
+  @apply transition-colors duration-200;
+}
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+  /* ========================================
+     GRADIENT UTILITIES
+     ======================================== */
+
+  /* Hero gradient overlay using theme colors */
+  .hero-gradient-overlay {
+    background: linear-gradient(
+      to right,
+      rgba(var(--color-background-dark), 0.95),
+      rgba(var(--color-background-dark), 0.8),
+      rgba(var(--color-background-dark), 0.4)
+    ) !important;
+  }
+
+  /* Text gradient for hero titles */
+  .text-gradient-primary {
+    background-image: linear-gradient(
+      to right,
+      rgb(var(--color-primary-light)),
+      rgb(var(--color-cyan-400))
+    ) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+  }
+
+  /* Background gradients */
+  .bg-gradient-primary {
+    background: linear-gradient(
+      to bottom right,
+      rgb(var(--color-primary)),
+      rgb(var(--color-primary-hover))
+    ) !important;
+  }
+
+  .bg-gradient-blue {
+    background: linear-gradient(
+      to bottom right,
+      rgb(var(--color-primary)),
+      rgb(var(--color-primary-hover))
+    ) !important;
+  }
+
+  .bg-gradient-blue-horizontal {
+    background: linear-gradient(
+      to right,
+      rgb(var(--color-primary)),
+      rgb(var(--color-primary-hover))
+    ) !important;
+  }
+
+  .bg-gradient-blue-icon {
+    background: linear-gradient(
+      to bottom right,
+      rgb(var(--color-blue-500)),
+      rgb(var(--color-primary-hover))
+    ) !important;
+  }
+
+  .bg-gradient-dark {
+    background: linear-gradient(
+      to bottom,
+      rgba(var(--color-background-dark), 0.8),
+      rgb(var(--color-background-dark))
+    ) !important;
+  }
+
+  .bg-gradient-dark-overlay {
+    background: linear-gradient(
+      to bottom,
+      rgba(var(--color-background-dark), 0.8),
+      rgb(var(--color-background-dark))
+    ) !important;
+  }
+
+  .bg-gradient-slate-dark {
+    background: linear-gradient(
+      to bottom right,
+      rgb(var(--color-slate-600)),
+      rgb(var(--color-background-dark))
+    ) !important;
+  }
+
+  .bg-gradient-light {
+    background: linear-gradient(
+      to bottom,
+      rgb(var(--color-background)),
+      rgb(var(--color-background-alt))
+    ) !important;
+  }
+
+  .bg-gradient-project-overlay {
+    background: linear-gradient(
+      to top,
+      rgba(var(--color-black), 0.6),
+      transparent,
+      transparent
+    ) !important;
+  }
+
+  .bg-gradient-planning-overlay {
+    background: linear-gradient(
+      to top,
+      rgba(var(--color-background-dark), 0.6),
+      transparent
+    ) !important;
+  }
+
+  .bg-white-blur {
+    background: rgba(var(--color-background), 0.1) !important;
+  }
+
+  /* ========================================
+     DECORATIVE BLUR ELEMENTS
+     ======================================== */
+
+  .decorative-blur-primary {
+    background: rgba(var(--color-primary), 0.2) !important;
+  }
+
+  .decorative-blur-primary-light {
+    background: rgba(var(--color-primary), 0.1) !important;
+  }
+
+  .decorative-blur-white {
+    background: rgba(var(--color-background), 0.1) !important;
+  }
+
+/* ========================================
+     BADGE & TAG STYLES
+     ======================================== */
+
+/* Primary badge with semi-transparent background */
+.badge-primary {
+  @apply inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium;
+  background: rgba(var(--color-primary), 0.2);
+  color: rgb(var(--color-primary-light));
+  border: 1px solid rgba(var(--color-primary), 0.3);
+}
+
+.badge-primary-solid {
+  @apply inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium;
+  background: rgba(var(--color-primary), 0.1);
+  color: rgb(var(--color-primary));
+}
+
+/* ========================================
+     ICON CONTAINER STYLES
+     ======================================== */
+
+/* Icon containers with theme colors */
+.icon-container-primary {
+  @apply flex items-center justify-center;
+  background: rgba(var(--color-primary), 0.1);
+  color: rgb(var(--color-primary));
+}
+
+.icon-container-success {
+  @apply flex items-center justify-center;
+  background: rgba(var(--color-accent-success), 0.1);
+  color: rgb(var(--color-accent-success));
+}
+
+.icon-container-warning {
+  @apply flex items-center justify-center;
+  background: rgba(var(--color-accent-warning), 0.1);
+  color: rgb(var(--color-accent-warning));
+}
+
+.icon-container-info {
+  @apply flex items-center justify-center;
+  background: rgba(var(--color-accent-info), 0.1);
+  color: rgb(var(--color-accent-info));
+}
 }

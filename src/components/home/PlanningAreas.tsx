@@ -139,7 +139,7 @@ export default function PlanningAreas() {
                 alt="Commercial Laundry"
                 className="w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent" />
+              <div className="absolute inset-0 bg-gradient-planning-overlay" />
             </div>
           </motion.div>
         </div>
