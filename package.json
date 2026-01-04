@@ -23,6 +23,7 @@
       "/about",
       "/services",
       "/projects",
+      "/products",
       "/contact"
     ],
     "skipThirdPartyRequests": true,

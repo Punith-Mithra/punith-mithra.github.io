@@ -1,0 +1,4468 @@
+[
+    {
+        "id": 1,
+        "category": "Cooking Equipment",
+        "equipment_name": "Rumali Roti Tawa",
+        "professional_description": "Inverted hemispherical griddle designed for making thin 'handkerchief' breads.",
+        "technical_specifications": "Material: Cast Iron/MS; Diameter: 24-30 inches; Operation: Gas; Stand: SS Frame.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Rumali+Roti+Tawa",
+        "slug": "rumali-roti-tawa",
+        "specifications_object": {
+            "Material": "Cast Iron/MS",
+            "Diameter": "24-30 inches",
+            "Operation": "Gas",
+            "Stand": "SS Frame."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 2,
+        "category": "Cooking Equipment",
+        "equipment_name": "Salamander",
+        "professional_description": "Overhead grilling unit used for browning gratins, melting cheese, and glazing.",
+        "technical_specifications": "Power: 3-5 kW (Elec) or Gas; Heating zones: Adjustable; Body: SS 304; Wall/Shelf mountable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Salamander",
+        "slug": "salamander",
+        "specifications_object": {
+            "Power": "3-5 kW (Elec) or Gas",
+            "Heating zones": "Adjustable",
+            "Body": "SS 304",
+            "note_3": "Wall/Shelf mountable."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 3,
+        "category": "Cooking Equipment",
+        "equipment_name": "Tandoor (Charcoal / Gas)",
+        "professional_description": "Traditional clay oven for baking naan and roasting meats at high temperatures.",
+        "technical_specifications": "Inner: Hand-crafted clay pot; Outer: SS casing; Insulation: Glass wool/Sand; Temp: Up to 480°C.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Tandoor",
+        "slug": "tandoor-charcoal-gas",
+        "specifications_object": {
+            "Inner": "Hand-crafted clay pot",
+            "Outer": "SS casing",
+            "Insulation": "Glass wool/Sand",
+            "Temp": "Up to 480°C."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 4,
+        "category": "Cooking Equipment",
+        "equipment_name": "Table Top Fryer",
+        "professional_description": "Compact frying unit for small batch production or limited space kitchens.",
+        "technical_specifications": "Capacity: 6-8 Liters; Control: Thermostatic (50-190°C); Power: 3kW Electric or Gas.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Table+Top+Fryer",
+        "slug": "table-top-fryer",
+        "specifications_object": {
+            "Capacity": "6-8 Liters",
+            "Control": "Thermostatic (50-190°C)",
+            "Power": "3kW Electric or Gas."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 5,
+        "category": "Cooking Equipment",
+        "equipment_name": "Fry Top Griddle Ribbed",
+        "professional_description": "Heavy-duty contact grill with grooved surface for searing and grill marks.",
+        "technical_specifications": "Plate: 16mm thick Mild Steel/Chrome; Splash guard: SS; Grease drawer: Removable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Fry+Top+Griddle+Ribbed",
+        "slug": "fry-top-griddle-ribbed",
+        "specifications_object": {
+            "Plate": "16mm thick Mild Steel/Chrome",
+            "Splash guard": "SS",
+            "Grease drawer": "Removable."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 6,
+        "category": "Cooking Equipment",
+        "equipment_name": "Charcoal Grill",
+        "professional_description": "Open flame grill using solid fuel for authentic smoky flavor profiles.",
+        "technical_specifications": "Grates: Cast iron; Ash drawer: Integrated; Body: Refractory brick lined SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Charcoal+Grill",
+        "slug": "charcoal-grill",
+        "specifications_object": {
+            "Grates": "Cast iron",
+            "Ash drawer": "Integrated",
+            "Body": "Refractory brick lined SS."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 7,
+        "category": "Cooking Equipment",
+        "equipment_name": "Deep Fat Fryer Double Bowl",
+        "professional_description": "High-volume floor-standing fryer with independent tanks for separating food types.",
+        "technical_specifications": "Capacity: 2 x 15L; Recovery: Fast recovery heaters/burners; Filtration: Cold zone collection.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Deep+Fat+Fryer+Double+Bowl",
+        "slug": "deep-fat-fryer-double-bowl",
+        "specifications_object": {
+            "Capacity": "2 x 15L",
+            "Recovery": "Fast recovery heaters/burners",
+            "Filtration": "Cold zone collection."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 8,
+        "category": "Cooking Equipment",
+        "equipment_name": "Dosa / Chapati Tawa",
+        "professional_description": "Large flat griddle plate for continuous production of pancakes and flatbreads.",
+        "technical_specifications": "Plate: 20mm Polished MS; Burners: V-type high efficiency; Size: Custom (e.g., 4ft x 2.5ft).",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dosa+Chapati+Tawa",
+        "slug": "dosa-chapati-tawa",
+        "specifications_object": {
+            "Plate": "20mm Polished MS",
+            "Burners": "V-type high efficiency",
+            "Size": "Custom (e.g., 4ft x 2.5ft)."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 9,
+        "category": "Cooking Equipment",
+        "equipment_name": "4 Burner Gas Range",
+        "professional_description": "Standard commercial range with open top burners for sautéing and boiling.",
+        "technical_specifications": "Burners: Cast iron (25,000 BTU each); Pan Supports: Heavy duty vitreous enamel; Tray: Drip catch.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=4+Burner+Gas+Range",
+        "slug": "4-burner-gas-range",
+        "specifications_object": {
+            "Burners": "Cast iron (25,000 BTU each)",
+            "Pan Supports": "Heavy duty vitreous enamel",
+            "Tray": "Drip catch."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 10,
+        "category": "Cooking Equipment",
+        "equipment_name": "6 Burner Gas Range",
+        "professional_description": "Expanded cooking station for high-volume a la carte kitchens.",
+        "technical_specifications": "Dim: 1050x750x850mm; Oven: Optional base gas oven; Construction: SS 304 heavy gauge.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=6+Burner+Gas+Range",
+        "slug": "6-burner-gas-range",
+        "specifications_object": {
+            "Dim": "1050x750x850mm",
+            "Oven": "Optional base gas oven",
+            "Construction": "SS 304 heavy gauge."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 11,
+        "category": "Cooking Equipment",
+        "equipment_name": "Full Cooking Line",
+        "professional_description": "Integrated modular suite of cooking equipment (Range, Fryer, Griddle).",
+        "technical_specifications": "Joinery: Seamless SS; Depth: 700/900 series; Services: Unified gas/electric manifold.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Full+Cooking+Line",
+        "slug": "full-cooking-line",
+        "specifications_object": {
+            "Joinery": "Seamless SS",
+            "Depth": "700/900 series",
+            "Services": "Unified gas/electric manifold."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 12,
+        "category": "Cooking Equipment",
+        "equipment_name": "S/S Pasta Cooker",
+        "professional_description": "Dedicated water boiler with lift-out baskets for pasta, noodles, or blanching.",
+        "technical_specifications": "Tank: SS 316 (Salt resistant); Baskets: 4-6 portion baskets; Water inlet/outlet: Integrated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pasta+Cooker",
+        "slug": "s-s-pasta-cooker",
+        "specifications_object": {
+            "Tank": "SS 316 (Salt resistant)",
+            "Baskets": "4-6 portion baskets",
+            "Water inlet/outlet": "Integrated."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 13,
+        "category": "Cooking Equipment",
+        "equipment_name": "Idli Steamer",
+        "professional_description": "Steaming chamber specifically designed for multi-tray idli production.",
+        "technical_specifications": "Trays: SS die-pressed; Capacity: 54 to 108 idlis; Heating: Gas/Electric water bath.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Idli+Steamer",
+        "slug": "idli-steamer",
+        "specifications_object": {
+            "Trays": "SS die-pressed",
+            "Capacity": "54 to 108 idlis",
+            "Heating": "Gas/Electric water bath."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 14,
+        "category": "Cooking Equipment",
+        "equipment_name": "Chapati Machine",
+        "professional_description": "Automated conveyor system for flattening and cooking rotis/chapatis.",
+        "technical_specifications": "Output: 500-1000 pcs/hr; Thickness: Adjustable; Belt: Food grade non-stick.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Chapati+Machine",
+        "slug": "chapati-machine",
+        "specifications_object": {
+            "Output": "500-1000 pcs/hr",
+            "Thickness": "Adjustable",
+            "Belt": "Food grade non-stick."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 15,
+        "category": "Cooking Equipment",
+        "equipment_name": "Deep Fat Fryer Single Bowl",
+        "professional_description": "Standard single-tank fryer for general purpose frying.",
+        "technical_specifications": "Capacity: 18-22 Liters; Safety: Over-temp cutout; Basket: Heavy duty nickel plated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Deep+Fat+Fryer+Single",
+        "slug": "deep-fat-fryer-single-bowl",
+        "specifications_object": {
+            "Capacity": "18-22 Liters",
+            "Safety": "Over-temp cutout",
+            "Basket": "Heavy duty nickel plated."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 16,
+        "category": "Cooking Equipment",
+        "equipment_name": "Boiler",
+        "professional_description": "Large volume water boiling vessel for bulk cooking or cleaning water.",
+        "technical_specifications": "Jacket: Double walled; Capacity: 50-200 Liters; Lid: Counter-balanced.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Boiler",
+        "slug": "boiler",
+        "specifications_object": {
+            "Jacket": "Double walled",
+            "Capacity": "50-200 Liters",
+            "Lid": "Counter-balanced."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 17,
+        "category": "Cooking Equipment",
+        "equipment_name": "Tilting Bratt Pan",
+        "professional_description": "Versatile rectangular pan for braising, shallow frying, and bulk liquid cooking.",
+        "technical_specifications": "Tilt: Manual/Motorized; Capacity: 80L; Pan base: 12mm bimetallic/SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Tilting+Bratt+Pan",
+        "slug": "tilting-bratt-pan",
+        "specifications_object": {
+            "Tilt": "Manual/Motorized",
+            "Capacity": "80L",
+            "Pan base": "12mm bimetallic/SS."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 18,
+        "category": "Cooking Equipment",
+        "equipment_name": "Stock Pot Stove",
+        "professional_description": "Low-level single burner range designed for heavy, large-diameter stock pots.",
+        "technical_specifications": "Burner: High pressure hurricane/ring; Grate: Heavy cast iron; Height: 450-500mm.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Stock+Pot+Stove",
+        "slug": "stock-pot-stove",
+        "specifications_object": {
+            "Burner": "High pressure hurricane/ring",
+            "Grate": "Heavy cast iron",
+            "Height": "450-500mm."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 19,
+        "category": "Cooking Equipment",
+        "equipment_name": "3 Burner Indian Gas Range",
+        "professional_description": "Custom range with varying burner sizes suited for Indian round-bottom vessels.",
+        "technical_specifications": "Top: SS 304; Burners: T35/T22 combination; Splashback: High rise.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=3+Burner+Indian+Range",
+        "slug": "3-burner-indian-gas-range",
+        "specifications_object": {
+            "Top": "SS 304",
+            "Burners": "T35/T22 combination",
+            "Splashback": "High rise."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 20,
+        "category": "Cooking Equipment",
+        "equipment_name": "Chinese Cooking Range",
+        "professional_description": "Wok range with high-pressure burners and rear water cooling system.",
+        "technical_specifications": "Burners: High BTU jet burners; Deck: Water cooled; Waste: Integrated gutter channel.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Chinese+Cooking+Range",
+        "slug": "chinese-cooking-range",
+        "specifications_object": {
+            "Burners": "High BTU jet burners",
+            "Deck": "Water cooled",
+            "Waste": "Integrated gutter channel."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 21,
+        "category": "Cooking Equipment",
+        "equipment_name": "Pressure Bratt Pan",
+        "professional_description": "Sealed tilting pan that cooks under pressure to reduce cooking time by 50%.",
+        "technical_specifications": "Pressure: 0.4 bar working; Lid: Hermetic seal lock; Interface: Digital programmable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pressure+Bratt+Pan",
+        "slug": "pressure-bratt-pan",
+        "specifications_object": {
+            "Pressure": "0.4 bar working",
+            "Lid": "Hermetic seal lock",
+            "Interface": "Digital programmable."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 22,
+        "category": "Cooking Equipment",
+        "equipment_name": "4 Burner Electric Range",
+        "professional_description": "Electric boiling top with sealed hot plates for kitchens without gas supply.",
+        "technical_specifications": "Plates: Round/Square cast iron; Power: 2.6kW per plate; Switch: 6-heat position.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=4+Burner+Electric+Range",
+        "slug": "4-burner-electric-range",
+        "specifications_object": {
+            "Plates": "Round/Square cast iron",
+            "Power": "2.6kW per plate",
+            "Switch": "6-heat position."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 23,
+        "category": "Cooking Equipment",
+        "equipment_name": "Solid Top Range",
+        "professional_description": "Gas range with a single heavy cast iron plate for gradient heat cooking.",
+        "technical_specifications": "Plate: Bullseye target heat; Center Temp: 450°C; Edge Temp: 150°C.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Solid+Top+Range",
+        "slug": "solid-top-range",
+        "specifications_object": {
+            "Plate": "Bullseye target heat",
+            "Center Temp": "450°C",
+            "Edge Temp": "150°C."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 24,
+        "category": "Cooking Equipment",
+        "equipment_name": "Bain Marie",
+        "professional_description": "Hot water bath system for holding food at safe serving temperatures (>60°C).",
+        "technical_specifications": "Wells: GN 1/1 compatible; Heating: Wet or Dry element; Thermostat: Analog/Digital.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bain+Marie",
+        "slug": "bain-marie",
+        "specifications_object": {
+            "Wells": "GN 1/1 compatible",
+            "Heating": "Wet or Dry element",
+            "Thermostat": "Analog/Digital."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 25,
+        "category": "Cooking Equipment",
+        "equipment_name": "Induction Cooker",
+        "professional_description": "Magnetic field cooking unit offering 90% energy efficiency and low ambient heat.",
+        "technical_specifications": "Surface: Ceramic glass; Power: 3.5kW / 5kW; Coil: Heavy duty copper.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Induction+Cooker",
+        "slug": "induction-cooker",
+        "specifications_object": {
+            "Surface": "Ceramic glass",
+            "Power": "3.5kW / 5kW",
+            "Coil": "Heavy duty copper."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 26,
+        "category": "Fabrication",
+        "equipment_name": "Work Top With Drawers",
+        "professional_description": "Preparation table with integrated under-counter storage drawers.",
+        "technical_specifications": "Top: 16 SWG SS 304; Drawers: GN 1/1 size on telescopic runners; Sound deadening: Yes.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Work+Top+With+Drawers",
+        "slug": "work-top-with-drawers",
+        "specifications_object": {
+            "Top": "16 SWG SS 304",
+            "Drawers": "GN 1/1 size on telescopic runners",
+            "Sound deadening": "Yes."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 27,
+        "category": "Cooking Equipment",
+        "equipment_name": "Chips Dump Scuttle",
+        "professional_description": "Holding station for keeping fried foods crisp and warm before serving.",
+        "technical_specifications": "Heat source: Overhead ceramic/infrared lamp; Base: Perforated drain plate.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Chips+Dump+Scuttle",
+        "slug": "chips-dump-scuttle",
+        "specifications_object": {
+            "Heat source": "Overhead ceramic/infrared lamp",
+            "Base": "Perforated drain plate."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 28,
+        "category": "Cooking Accessories",
+        "equipment_name": "Skewer",
+        "professional_description": "Metal rods used for holding food in Tandoors or over grills.",
+        "technical_specifications": "Material: Forged SS; Shapes: Square/Round/Flat; Length: 1 meter standard.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Skewer",
+        "slug": "skewer",
+        "specifications_object": {
+            "Material": "Forged SS",
+            "Shapes": "Square/Round/Flat",
+            "Length": "1 meter standard."
+        },
+        "categories": [
+            "Cooking Accessories"
+        ],
+        "primary_category": "Cooking Accessories"
+    },
+    {
+        "id": 29,
+        "category": "Cooking Equipment",
+        "equipment_name": "Fry Top Griddle Smooth with Oven",
+        "professional_description": "Combination unit featuring a flat griddle plate with a baking oven base.",
+        "technical_specifications": "Plate: Polished mild steel; Oven: GN 2/1 size static oven; Thermostats: Dual control.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Griddle+With+Oven",
+        "slug": "fry-top-griddle-smooth-with-oven",
+        "specifications_object": {
+            "Plate": "Polished mild steel",
+            "Oven": "GN 2/1 size static oven",
+            "Thermostats": "Dual control."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 30,
+        "category": "Transport",
+        "equipment_name": "Thermo box (Electric & Insulated)",
+        "professional_description": "Portable container for transporting food while maintaining temperature.",
+        "technical_specifications": "Material: Double wall Polypropylene; Insulation: PU Foam; Heating: Active electric option.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Thermo+Box",
+        "slug": "thermo-box-electric-insulated",
+        "specifications_object": {
+            "Material": "Double wall Polypropylene",
+            "Insulation": "PU Foam",
+            "Heating": "Active electric option."
+        },
+        "categories": [
+            "Transport"
+        ],
+        "primary_category": "Transport"
+    },
+    {
+        "id": 31,
+        "category": "Service",
+        "equipment_name": "Full Service Counter",
+        "professional_description": "Complete front-of-house serving unit including tray slides and sneeze guards.",
+        "technical_specifications": "Length: Custom modular; Facia: SS or Decorative laminate; Top: SS 304.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Service+Counter",
+        "slug": "full-service-counter",
+        "specifications_object": {
+            "Length": "Custom modular",
+            "Facia": "SS or Decorative laminate",
+            "Top": "SS 304."
+        },
+        "categories": [
+            "Service"
+        ],
+        "primary_category": "Service"
+    },
+    {
+        "id": 32,
+        "category": "Cooking Equipment",
+        "equipment_name": "Pasta Cooker with Cupboard",
+        "professional_description": "Pasta boiling unit mounted on an enclosed storage cabinet.",
+        "technical_specifications": "Power: 9kW Electric; Drain: 1 inch ball valve; Cupboard: Hinged doors.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pasta+Cooker+With+Cupboard",
+        "slug": "pasta-cooker-with-cupboard",
+        "specifications_object": {
+            "Power": "9kW Electric",
+            "Drain": "1 inch ball valve",
+            "Cupboard": "Hinged doors."
+        },
+        "categories": [
+            "Cooking Equipment"
+        ],
+        "primary_category": "Cooking Equipment"
+    },
+    {
+        "id": 33,
+        "category": "Display",
+        "equipment_name": "Ambient Display",
+        "professional_description": "Glass-enclosed unit for displaying non-perishable food items at room temperature.",
+        "technical_specifications": "Glass: Toughened/Curved; Lighting: LED strip; Access: Rear sliding doors.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ambient+Display",
+        "slug": "ambient-display",
+        "specifications_object": {
+            "Glass": "Toughened/Curved",
+            "Lighting": "LED strip",
+            "Access": "Rear sliding doors."
+        },
+        "categories": [
+            "Display"
+        ],
+        "primary_category": "Display"
+    },
+    {
+        "id": 34,
+        "category": "Ventilation",
+        "equipment_name": "Wall Mounted Hood",
+        "professional_description": "Exhaust canopy fixed to a wall for capturing smoke and grease above equipment.",
+        "technical_specifications": "Filters: SS Baffle type; Lighting: Recessed heat-proof; Construction: SS 304.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wall+Mounted+Hood",
+        "slug": "wall-mounted-hood",
+        "specifications_object": {
+            "Filters": "SS Baffle type",
+            "Lighting": "Recessed heat-proof",
+            "Construction": "SS 304."
+        },
+        "categories": [
+            "Ventilation"
+        ],
+        "primary_category": "Ventilation"
+    },
+    {
+        "id": 35,
+        "category": "Refrigeration",
+        "equipment_name": "Undercounter Freezer",
+        "professional_description": "Compact freezing unit designed to fit beneath standard kitchen worktops.",
+        "technical_specifications": "Temp: -18°C to -22°C; Compressor: Bottom/Rear mounted; Doors: Solid/Self-closing.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Undercounter+Freezer",
+        "slug": "undercounter-freezer",
+        "specifications_object": {
+            "Temp": "-18°C to -22°C",
+            "Compressor": "Bottom/Rear mounted",
+            "Doors": "Solid/Self-closing."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 36,
+        "category": "Refrigeration",
+        "equipment_name": "Horizontal Freezer",
+        "professional_description": "Chest-style freezer for bulk storage of frozen goods.",
+        "technical_specifications": "Lid: Hard top/Glass sliding; Insulation: 60mm PUF; Cooling: Static.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Horizontal+Freezer",
+        "slug": "horizontal-freezer",
+        "specifications_object": {
+            "Lid": "Hard top/Glass sliding",
+            "Insulation": "60mm PUF",
+            "Cooling": "Static."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 37,
+        "category": "Refrigeration",
+        "equipment_name": "Two Door Vertical Chiller",
+        "professional_description": "Upright refrigerator with two doors for organized storage of chilled produce.",
+        "technical_specifications": "Capacity: 1000-1200L; Temp: +2°C to +8°C; Shelves: Adjustable PVC coated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Two+Door+Chiller",
+        "slug": "two-door-vertical-chiller",
+        "specifications_object": {
+            "Capacity": "1000-1200L",
+            "Temp": "+2°C to +8°C",
+            "Shelves": "Adjustable PVC coated."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 38,
+        "category": "Refrigeration",
+        "equipment_name": "Two Door Vertical Freezer",
+        "professional_description": "Upright heavy-duty freezer for storage of meat, poultry, and frozen stocks.",
+        "technical_specifications": "Temp: -18°C; Cooling: Ventilated (Frost free); Controller: Digital.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Two+Door+Freezer",
+        "slug": "two-door-vertical-freezer",
+        "specifications_object": {
+            "Temp": "-18°C",
+            "Cooling": "Ventilated (Frost free)",
+            "Controller": "Digital."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 39,
+        "category": "Refrigeration",
+        "equipment_name": "Three Door Undercounter Chiller",
+        "professional_description": "Wide refrigerated worktable with three compartments for high-volume preparation.",
+        "technical_specifications": "Length: 1800mm standard; Top: SS 304 (Food grade); Gaskets: Magnetic removable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=3+Door+UC+Chiller",
+        "slug": "three-door-undercounter-chiller",
+        "specifications_object": {
+            "Length": "1800mm standard",
+            "Top": "SS 304 (Food grade)",
+            "Gaskets": "Magnetic removable."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 40,
+        "category": "Refrigeration",
+        "equipment_name": "Two Door Undercounter Chiller",
+        "professional_description": "Standard refrigerated prep counter for keeping ingredients at hand.",
+        "technical_specifications": "Length: 1200-1500mm; Refrigerant: R134a/R290; Wheels: Heavy duty castors.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=2+Door+UC+Chiller",
+        "slug": "two-door-undercounter-chiller",
+        "specifications_object": {
+            "Length": "1200-1500mm",
+            "Refrigerant": "R134a/R290",
+            "Wheels": "Heavy duty castors."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 41,
+        "category": "Refrigeration",
+        "equipment_name": "Undercounter Chiller",
+        "professional_description": "Single door refrigerated unit for small kitchens or specific station storage.",
+        "technical_specifications": "Capacity: 150-250L; Body: Internal/External SS; Evaporator: Copper finned.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Undercounter+Chiller",
+        "slug": "undercounter-chiller",
+        "specifications_object": {
+            "Capacity": "150-250L",
+            "Body": "Internal/External SS",
+            "Evaporator": "Copper finned."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 42,
+        "category": "Bakery & Ovens",
+        "equipment_name": "Unox Convection Oven",
+        "professional_description": "Professional fan-assisted oven for consistent baking and roasting results.",
+        "technical_specifications": "Capacity: 4-10 GN/Trays; Humidity: Steam injection; Interface: Digital/Touch.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Unox+Convection+Oven",
+        "slug": "unox-convection-oven",
+        "specifications_object": {
+            "Capacity": "4-10 GN/Trays",
+            "Humidity": "Steam injection",
+            "Interface": "Digital/Touch."
+        },
+        "categories": [
+            "Bakery",
+            "Ovens"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 43,
+        "category": "Bakery & Ovens",
+        "equipment_name": "Merrychef / Speed Oven",
+        "professional_description": "High-speed oven combining convection, microwave, and impingement for rapid service.",
+        "technical_specifications": "Speed: Up to 15x faster than conventional; Catalyst: Ventless operation; Power: 1 Phase/3 Phase.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Merrychef+Oven",
+        "slug": "merrychef-speed-oven",
+        "specifications_object": {
+            "Speed": "Up to 15x faster than conventional",
+            "Catalyst": "Ventless operation",
+            "Power": "1 Phase/3 Phase."
+        },
+        "categories": [
+            "Bakery",
+            "Ovens"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 44,
+        "category": "Bakery & Ovens",
+        "equipment_name": "Rational Combi Oven",
+        "professional_description": "Intelligent cooking system that manages steam and convection automatically.",
+        "technical_specifications": "Modes: Steam/Convection/Combination; Care: Automatic cleaning system; Capacity: 6-20 GN.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Rational+Combi+Oven",
+        "slug": "rational-combi-oven",
+        "specifications_object": {
+            "Modes": "Steam/Convection/Combination",
+            "Care": "Automatic cleaning system",
+            "Capacity": "6-20 GN."
+        },
+        "categories": [
+            "Bakery",
+            "Ovens"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 45,
+        "category": "Bakery & Ovens",
+        "equipment_name": "Lincat Countertop Oven",
+        "professional_description": "Compact electric oven ideal for snacks, pizzas, and small bakery items.",
+        "technical_specifications": "Material: SS; Shelves: 2-3 adjustable; Temp: 50°C to 250°C.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Lincat+Countertop+Oven",
+        "slug": "lincat-countertop-oven",
+        "specifications_object": {
+            "Material": "SS",
+            "Shelves": "2-3 adjustable",
+            "Temp": "50°C to 250°C."
+        },
+        "categories": [
+            "Bakery",
+            "Ovens"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 46,
+        "category": "Beverage & Bar",
+        "equipment_name": "Coffee Machine",
+        "professional_description": "Commercial espresso machine for high-quality beverage preparation.",
+        "technical_specifications": "Groups: 1, 2, or 3; Boiler: Dual boiler/Heat exchanger; Pump: Rotary.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Coffee+Machine",
+        "slug": "coffee-machine",
+        "specifications_object": {
+            "Groups": "1, 2, or 3",
+            "Boiler": "Dual boiler/Heat exchanger",
+            "Pump": "Rotary."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 47,
+        "category": "Beverage & Bar",
+        "equipment_name": "Santos Juicer",
+        "professional_description": "Centrifugal juicer designed for high-output extraction from fruits and vegetables.",
+        "technical_specifications": "Speed: 3000-3600 RPM; Motor: Silent induction; Feed: Large chute (79mm).",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Santos+Juicer",
+        "slug": "santos-juicer",
+        "specifications_object": {
+            "Speed": "3000-3600 RPM",
+            "Motor": "Silent induction",
+            "Feed": "Large chute (79mm)."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 48,
+        "category": "Beverage & Bar",
+        "equipment_name": "Ice Machine",
+        "professional_description": "Automatic ice maker for producing cubes, flakes, or nuggets.",
+        "technical_specifications": "Production: 20kg to 500kg/24h; Shape: Gourmet/Square; Cooling: Air or Water.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ice+Machine",
+        "slug": "ice-machine",
+        "specifications_object": {
+            "Production": "20kg to 500kg/24h",
+            "Shape": "Gourmet/Square",
+            "Cooling": "Air or Water."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 49,
+        "category": "Beverage & Bar",
+        "equipment_name": "Vitamix Blender",
+        "professional_description": "Heavy-duty commercial blender for smoothies, soups, and purees.",
+        "technical_specifications": "Power: 2-3 HP; Container: BPA-free Tritan; Controls: Variable speed/Programs.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Vitamix+Blender",
+        "slug": "vitamix-blender",
+        "specifications_object": {
+            "Power": "2-3 HP",
+            "Container": "BPA-free Tritan",
+            "Controls": "Variable speed/Programs."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 50,
+        "category": "Beverage & Bar",
+        "equipment_name": "Bar Blender",
+        "professional_description": "Specialized blender for crushing ice and making cocktails.",
+        "technical_specifications": "Housing: Sound enclosure optional; Blade: Stainless steel; Speed: Dual speed.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bar+Blender",
+        "slug": "bar-blender",
+        "specifications_object": {
+            "Housing": "Sound enclosure optional",
+            "Blade": "Stainless steel",
+            "Speed": "Dual speed."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 51,
+        "category": "Beverage & Bar",
+        "equipment_name": "Wine Chiller",
+        "professional_description": "Temperature-controlled cabinet for storing and aging wine collections.",
+        "technical_specifications": "Zones: Single/Dual temperature; Glass: UV protected; Shelves: Wooden/Metal.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wine+Chiller",
+        "slug": "wine-chiller",
+        "specifications_object": {
+            "Zones": "Single/Dual temperature",
+            "Glass": "UV protected",
+            "Shelves": "Wooden/Metal."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 52,
+        "category": "Beverage & Bar",
+        "equipment_name": "Beer Dispenser",
+        "professional_description": "Cooling and pouring system for draft beer from kegs.",
+        "technical_specifications": "Cooling: Flash cooler/Direct draw; Gas: CO2/Nitrogen regulator; Taps: 1 to 4.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Beer+Dispenser",
+        "slug": "beer-dispenser",
+        "specifications_object": {
+            "Cooling": "Flash cooler/Direct draw",
+            "Gas": "CO2/Nitrogen regulator",
+            "Taps": "1 to 4."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 53,
+        "category": "Fabrication",
+        "equipment_name": "Single Sink Unit",
+        "professional_description": "Stainless steel workstation with one deep bowl for washing produce or equipment.",
+        "technical_specifications": "Bowl size: 500x500x300mm standard; Top: SS 304; Legs: 38mm round/square tube.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Single+Sink+Unit",
+        "slug": "single-sink-unit",
+        "specifications_object": {
+            "Bowl size": "500x500x300mm standard",
+            "Top": "SS 304",
+            "Legs": "38mm round/square tube."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 54,
+        "category": "Fabrication",
+        "equipment_name": "Double Sink Unit",
+        "professional_description": "Two-compartment sink for a more efficient wash-and-rinse workflow.",
+        "technical_specifications": "Splashback: 100mm; Waste: Drain coupler with strainer; Construction: Argon welded.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Double+Sink+Unit",
+        "slug": "double-sink-unit",
+        "specifications_object": {
+            "Splashback": "100mm",
+            "Waste": "Drain coupler with strainer",
+            "Construction": "Argon welded."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 55,
+        "category": "Fabrication",
+        "equipment_name": "Triple Sink Unit",
+        "professional_description": "Standard three-bowl configuration for Wash, Rinse, and Sanitize protocols.",
+        "technical_specifications": "Bowl count: 3; Faucets: Optional swivel/pre-rinse; Material: SS 304 16 SWG.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Triple+Sink+Unit",
+        "slug": "triple-sink-unit",
+        "specifications_object": {
+            "Bowl count": "3",
+            "Faucets": "Optional swivel/pre-rinse",
+            "Material": "SS 304 16 SWG."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 56,
+        "category": "Storage",
+        "equipment_name": "Wall Shelf",
+        "professional_description": "Wall-mounted storage for light equipment, spices, or GN containers.",
+        "technical_specifications": "Type: Solid or Slotted; Brackets: Triangular SS; Load: 25-50kg.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wall+Shelf",
+        "slug": "wall-shelf",
+        "specifications_object": {
+            "Type": "Solid or Slotted",
+            "Brackets": "Triangular SS",
+            "Load": "25-50kg."
+        },
+        "categories": [
+            "Storage"
+        ],
+        "primary_category": "Storage"
+    },
+    {
+        "id": 57,
+        "category": "Storage",
+        "equipment_name": "Dunnage Rack",
+        "professional_description": "Low-profile heavy-duty rack for keeping heavy bulk items off the floor.",
+        "technical_specifications": "Height: 200-300mm; Material: Aluminum or SS; Surface: Slotted for airflow.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dunnage+Rack",
+        "slug": "dunnage-rack",
+        "specifications_object": {
+            "Height": "200-300mm",
+            "Material": "Aluminum or SS",
+            "Surface": "Slotted for airflow."
+        },
+        "categories": [
+            "Storage"
+        ],
+        "primary_category": "Storage"
+    },
+    {
+        "id": 58,
+        "category": "Storage",
+        "equipment_name": "Potato & Onion Rack",
+        "professional_description": "Specialized rack for bulk vegetable storage with mesh sides for ventilation.",
+        "technical_specifications": "Bins: 3-5 tiers; Mesh: SS wire/Expanded metal; Base: Fixed or Mobile.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Potato+Onion+Rack",
+        "slug": "potato-onion-rack",
+        "specifications_object": {
+            "Bins": "3-5 tiers",
+            "Mesh": "SS wire/Expanded metal",
+            "Base": "Fixed or Mobile."
+        },
+        "categories": [
+            "Storage"
+        ],
+        "primary_category": "Storage"
+    },
+    {
+        "id": 59,
+        "category": "Storage",
+        "equipment_name": "GN Container Trolley",
+        "professional_description": "Mobile cart with slides to hold multiple Gastronorm pans.",
+        "technical_specifications": "Capacity: 15-20 GN 1/1; Castors: 4 swivel (2 with brakes); Rails: L-shaped SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=GN+Trolley",
+        "slug": "gn-container-trolley",
+        "specifications_object": {
+            "Capacity": "15-20 GN 1/1",
+            "Castors": "4 swivel (2 with brakes)",
+            "Rails": "L-shaped SS."
+        },
+        "categories": [
+            "Storage"
+        ],
+        "primary_category": "Storage"
+    },
+    {
+        "id": 60,
+        "category": "Storage",
+        "equipment_name": "Bakery Tray Trolley",
+        "professional_description": "Mobile rack designed specifically for standard bakery trays (e.g., 60x40cm).",
+        "technical_specifications": "Pitch: 75-100mm between tiers; Capacity: 15-20 trays; Material: SS 202/304.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bakery+Tray+Trolley",
+        "slug": "bakery-tray-trolley",
+        "specifications_object": {
+            "Pitch": "75-100mm between tiers",
+            "Capacity": "15-20 trays",
+            "Material": "SS 202/304."
+        },
+        "categories": [
+            "Storage"
+        ],
+        "primary_category": "Storage"
+    },
+    {
+        "id": 61,
+        "category": "Fabrication",
+        "equipment_name": "Pot Wash Sink",
+        "professional_description": "Large deep sink for scrubbing big utensils.",
+        "technical_specifications": "Bowl Size: Approx 600x600x450mm; Material: 1.5mm thick SS; Drainboard: Optional.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pot+Wash+Sink",
+        "slug": "pot-wash-sink",
+        "specifications_object": {
+            "Bowl Size": "Approx 600x600x450mm",
+            "Material": "1.5mm thick SS",
+            "Drainboard": "Optional."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 62,
+        "category": "Fabrication",
+        "equipment_name": "SS Racks",
+        "professional_description": "Multi-tier shelving for storage.",
+        "technical_specifications": "Shelves: 4 or 5 tiers; Type: Solid or Slotted; Post: Tubular SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=SS+Racks",
+        "slug": "ss-racks",
+        "specifications_object": {
+            "Shelves": "4 or 5 tiers",
+            "Type": "Solid or Slotted",
+            "Post": "Tubular SS."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 63,
+        "category": "Fabrication",
+        "equipment_name": "SS Pan / Tray Trolley",
+        "professional_description": "Mobile rack for holding GN pans or bakery trays.",
+        "technical_specifications": "Capacity: 15-20 levels; Locks: Tray locks on both sides; Castors: 4 (2 with brakes).",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pan+Tray+Trolley",
+        "slug": "ss-pan-tray-trolley",
+        "specifications_object": {
+            "Capacity": "15-20 levels",
+            "Locks": "Tray locks on both sides",
+            "Castors": "4 (2 with brakes)."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 64,
+        "category": "Fabrication",
+        "equipment_name": "SS Double Bowl Sink",
+        "professional_description": "Two-compartment sink for wash and rinse.",
+        "technical_specifications": "Configuration: Bowls only or with drainboard; Backsplash: 150mm.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Double+Bowl+Sink",
+        "slug": "ss-double-bowl-sink",
+        "specifications_object": {
+            "Configuration": "Bowls only or with drainboard",
+            "Backsplash": "150mm."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 65,
+        "category": "Fabrication",
+        "equipment_name": "SS Single Bowl Sink",
+        "professional_description": "Single compartment utility sink.",
+        "technical_specifications": "Construction: Fully welded; Waste: 1.5 inch coupling.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Single+Bowl+Sink",
+        "slug": "ss-single-bowl-sink",
+        "specifications_object": {
+            "Construction": "Fully welded",
+            "Waste": "1.5 inch coupling."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 66,
+        "category": "Fabrication",
+        "equipment_name": "SS Wall Cabinet",
+        "professional_description": "Wall-mounted enclosed storage for hygiene.",
+        "technical_specifications": "Doors: Sliding; Top: Sloped (optional for dust); Material: SS 304.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wall+Cabinet",
+        "slug": "ss-wall-cabinet",
+        "specifications_object": {
+            "Doors": "Sliding",
+            "Top": "Sloped (optional for dust)",
+            "Material": "SS 304."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 67,
+        "category": "Fabrication",
+        "equipment_name": "SS Wall Shelf",
+        "professional_description": "Open shelf mounted on wall brackets.",
+        "technical_specifications": "Brackets: Cantilever or Triangle; Load: Heavy duty; Edge: Turned down/up.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wall+Shelf",
+        "slug": "ss-wall-shelf",
+        "specifications_object": {
+            "Brackets": "Cantilever or Triangle",
+            "Load": "Heavy duty",
+            "Edge": "Turned down/up."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 68,
+        "category": "Ventilation",
+        "equipment_name": "Kitchen Hood (Island Type)",
+        "professional_description": "Central canopy for equipment blocks in the middle of the room.",
+        "technical_specifications": "Filters: Baffle type; Light: Integrated flush; Grease cup: Removable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Island+Hood",
+        "slug": "kitchen-hood-island-type",
+        "specifications_object": {
+            "Filters": "Baffle type",
+            "Light": "Integrated flush",
+            "Grease cup": "Removable."
+        },
+        "categories": [
+            "Ventilation"
+        ],
+        "primary_category": "Ventilation"
+    },
+    {
+        "id": 69,
+        "category": "Storage",
+        "equipment_name": "Wire Shelves (Epoxy/Chrome/S.S.)",
+        "professional_description": "Adjustable wire shelving systems.",
+        "technical_specifications": "Finish: Chrome (Dry store) / Epoxy (Cold room) / SS (High hygiene); Post: Numbered grooves.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wire+Shelves",
+        "slug": "wire-shelves-epoxy-chrome-s-s",
+        "specifications_object": {
+            "Finish": "Chrome (Dry store) / Epoxy (Cold room) / SS (High hygiene)",
+            "Post": "Numbered grooves."
+        },
+        "categories": [
+            "Storage"
+        ],
+        "primary_category": "Storage"
+    },
+    {
+        "id": 70,
+        "category": "Fabrication",
+        "equipment_name": "SS Masala Trolley",
+        "professional_description": "Mobile spice bin holder for Indian cooking sections.",
+        "technical_specifications": "Containers: 6-9 round SS pots; Lid: Individual or common cover.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Masala+Trolley",
+        "slug": "ss-masala-trolley",
+        "specifications_object": {
+            "Containers": "6-9 round SS pots",
+            "Lid": "Individual or common cover."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 71,
+        "category": "Fabrication",
+        "equipment_name": "Floor Grating & Bottle Traps",
+        "professional_description": "Drainage covers and water seals.",
+        "technical_specifications": "Grating: Anti-slip SS/Cast Iron; Trap: Removable inner bucket for waste.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Floor+Grating",
+        "slug": "floor-grating-bottle-traps",
+        "specifications_object": {
+            "Grating": "Anti-slip SS/Cast Iron",
+            "Trap": "Removable inner bucket for waste."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 72,
+        "category": "Dishwashing",
+        "equipment_name": "Dish Washer Exit Table",
+        "professional_description": "Roller or plain table for receiving clean racks.",
+        "technical_specifications": "Shape: Straight or L-shape; Guide rails: Integrated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Exit+Table",
+        "slug": "dish-washer-exit-table",
+        "specifications_object": {
+            "Shape": "Straight or L-shape",
+            "Guide rails": "Integrated."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 73,
+        "category": "Dishwashing",
+        "equipment_name": "Dish Washer Entrance Table",
+        "professional_description": "Pre-rinse table with sink and scrap hole.",
+        "technical_specifications": "Sink: 400x400x250mm; Spray: Pre-rinse unit hole; Scrap: Rubber ring protected.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Entrance+Table",
+        "slug": "dish-washer-entrance-table",
+        "specifications_object": {
+            "Sink": "400x400x250mm",
+            "Spray": "Pre-rinse unit hole",
+            "Scrap": "Rubber ring protected."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 74,
+        "category": "Service",
+        "equipment_name": "Pick-Up Counter with 2 Over Head Shelves & Hot Cabinet",
+        "professional_description": "Pass-through counter between kitchen and service.",
+        "technical_specifications": "Shelves: For plating/ticket rail; Base: Hot cupboard for warming plates.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pick+Up+Counter",
+        "slug": "pick-up-counter-with-2-over-head-shelves-hot-cabinet",
+        "specifications_object": {
+            "Shelves": "For plating/ticket rail",
+            "Base": "Hot cupboard for warming plates."
+        },
+        "categories": [
+            "Service"
+        ],
+        "primary_category": "Service"
+    },
+    {
+        "id": 75,
+        "category": "Beverage & Bar",
+        "equipment_name": "Cocktail Station",
+        "professional_description": "Bartender's work station with ice chest and bottle wells.",
+        "technical_specifications": "Ice Chest: Insulated; Speed rail: Double; Sink: Integrated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cocktail+Station",
+        "slug": "cocktail-station",
+        "specifications_object": {
+            "Ice Chest": "Insulated",
+            "Speed rail": "Double",
+            "Sink": "Integrated."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 76,
+        "category": "Beverage & Bar",
+        "equipment_name": "Bar Counter",
+        "professional_description": "Front serving counter for bars.",
+        "technical_specifications": "Top: Guest side stone/wood; Work side: SS with drip trays.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bar+Counter",
+        "slug": "bar-counter",
+        "specifications_object": {
+            "Top": "Guest side stone/wood",
+            "Work side": "SS with drip trays."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 77,
+        "category": "Storage",
+        "equipment_name": "HD Plastic Shelving",
+        "professional_description": "Modular plastic shelving for cold rooms and hygiene areas.",
+        "technical_specifications": "Material: Polymer composite; Cleaning: Dishwasher safe slats; Rust proof: 100%.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Plastic+Shelving",
+        "slug": "hd-plastic-shelving",
+        "specifications_object": {
+            "Material": "Polymer composite",
+            "Cleaning": "Dishwasher safe slats",
+            "Rust proof": "100%."
+        },
+        "categories": [
+            "Storage"
+        ],
+        "primary_category": "Storage"
+    },
+    {
+        "id": 78,
+        "category": "Transport",
+        "equipment_name": "Service Trolley (2&3 Tier)",
+        "professional_description": "Utility cart for clearing or serving.",
+        "technical_specifications": "Shelves: Deep drawn sound deadened; Frame: Tubular SS; Bumpers: 4 corners.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Service+Trolley",
+        "slug": "service-trolley-2-3-tier",
+        "specifications_object": {
+            "Shelves": "Deep drawn sound deadened",
+            "Frame": "Tubular SS",
+            "Bumpers": "4 corners."
+        },
+        "categories": [
+            "Transport"
+        ],
+        "primary_category": "Transport"
+    },
+    {
+        "id": 79,
+        "category": "Ventilation",
+        "equipment_name": "Kitchen Hood (Wall Type)",
+        "professional_description": "Canopy mounted against a wall.",
+        "technical_specifications": "Projection: 1100-1200mm; Filters: SS Baffle; Duct collar: Top/Rear.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wall+Hood",
+        "slug": "kitchen-hood-wall-type",
+        "specifications_object": {
+            "Projection": "1100-1200mm",
+            "Filters": "SS Baffle",
+            "Duct collar": "Top/Rear."
+        },
+        "categories": [
+            "Ventilation"
+        ],
+        "primary_category": "Ventilation"
+    },
+    {
+        "id": 80,
+        "category": "Fabrication",
+        "equipment_name": "Hand Wash Sink Foot Operated",
+        "professional_description": "Sink activated by foot pedal valve.",
+        "technical_specifications": "Pedal: Floor mounted or kick valve; Accessories: Soap dispenser holder.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Foot+Op+Sink",
+        "slug": "hand-wash-sink-foot-operated",
+        "specifications_object": {
+            "Pedal": "Floor mounted or kick valve",
+            "Accessories": "Soap dispenser holder."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 81,
+        "category": "Fabrication",
+        "equipment_name": "SS Triple Bowl Sink",
+        "professional_description": "Three-compartment sink for Wash-Rinse-Sanitize workflow.",
+        "technical_specifications": "Standard: NSF compliant; Drainboards: Double side usually required.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Triple+Bowl+Sink",
+        "slug": "ss-triple-bowl-sink",
+        "specifications_object": {
+            "Standard": "NSF compliant",
+            "Drainboards": "Double side usually required."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 82,
+        "category": "Fabrication",
+        "equipment_name": "Drying Rack",
+        "professional_description": "Slotted rack for air drying pots and pans.",
+        "technical_specifications": "Shelves: Pipe or corrugated sheet; Drip tray: Bottom removable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Drying+Rack",
+        "slug": "drying-rack",
+        "specifications_object": {
+            "Shelves": "Pipe or corrugated sheet",
+            "Drip tray": "Bottom removable."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 83,
+        "category": "Fabrication",
+        "equipment_name": "Thawing Trolley",
+        "professional_description": "Mobile rack with drip catchers for defrosting meat.",
+        "technical_specifications": "Shelves: Perforated/Wire; Base: Trough with drain valve.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Thawing+Trolley",
+        "slug": "thawing-trolley",
+        "specifications_object": {
+            "Shelves": "Perforated/Wire",
+            "Base": "Trough with drain valve."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 84,
+        "category": "Fabrication",
+        "equipment_name": "SS Custom Fabricated Counter (Made to Order)",
+        "professional_description": "Non-standard shape or size counter.",
+        "technical_specifications": "Spec: As per site dimension and requirement.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Custom+Counter",
+        "slug": "ss-custom-fabricated-counter-made-to-order",
+        "specifications_object": {
+            "Spec": "As per site dimension and requirement."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 85,
+        "category": "Dishwashing",
+        "equipment_name": "Under Counter Dish Washer",
+        "professional_description": "Compact washer fitting under standard counters.",
+        "technical_specifications": "Rack size: 500x500mm; Output: 30 racks/hr; Pump: Built-in detergent/rinse aid.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Under+Counter+Washer",
+        "slug": "under-counter-dish-washer",
+        "specifications_object": {
+            "Rack size": "500x500mm",
+            "Output": "30 racks/hr",
+            "Pump": "Built-in detergent/rinse aid."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 86,
+        "category": "Dishwashing",
+        "equipment_name": "Accessories (Dishwashing)",
+        "professional_description": "Racks and chemicals.",
+        "technical_specifications": "Items: Plate rack, Glass rack, Cutlery holder, Detergent, Rinse Aid.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dishwash+Accessories",
+        "slug": "accessories-dishwashing",
+        "specifications_object": {
+            "Items": "Plate rack, Glass rack, Cutlery holder, Detergent, Rinse Aid."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 87,
+        "category": "Dishwashing",
+        "equipment_name": "Glass Washer",
+        "professional_description": "Dedicated washer for glassware with gentle pressure.",
+        "technical_specifications": "Rinse temp: Lower than dishwasher (cool down); Cycle: Rapid (2 mins).",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Glass+Washer",
+        "slug": "glass-washer",
+        "specifications_object": {
+            "Rinse temp": "Lower than dishwasher (cool down)",
+            "Cycle": "Rapid (2 mins)."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 88,
+        "category": "Dishwashing",
+        "equipment_name": "Conveyor Dishwasher",
+        "professional_description": "Rack conveyor machine for medium-high volume.",
+        "technical_specifications": "Zones: Pre-wash, Wash, Rinse, Dry; Capacity: 100-200 racks/hr.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Conveyor+Dishwasher",
+        "slug": "conveyor-dishwasher",
+        "specifications_object": {
+            "Zones": "Pre-wash, Wash, Rinse, Dry",
+            "Capacity": "100-200 racks/hr."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 89,
+        "category": "Dishwashing",
+        "equipment_name": "Flight Type Washer",
+        "professional_description": "Belt conveyor machine for very high volume (no racks needed for plates).",
+        "technical_specifications": "Capacity: 2000-5000 plates/hr; Sections: Loading, Pre-wash, Wash, Rinse, Drying, Unloading.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Flight+Type+Washer",
+        "slug": "flight-type-washer",
+        "specifications_object": {
+            "Capacity": "2000-5000 plates/hr",
+            "Sections": "Loading, Pre-wash, Wash, Rinse, Drying, Unloading."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 90,
+        "category": "Dishwashing",
+        "equipment_name": "Pot Washer",
+        "professional_description": "Heavy duty washer with high pressure for pots and pans.",
+        "technical_specifications": "Pressure: High PSI; Opening: Tall clearance for big vessels; Granule: Optional.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pot+Washer",
+        "slug": "pot-washer",
+        "specifications_object": {
+            "Pressure": "High PSI",
+            "Opening": "Tall clearance for big vessels",
+            "Granule": "Optional."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 91,
+        "category": "Dishwashing",
+        "equipment_name": "Hood Type Dish Washer",
+        "professional_description": "Pass-through dishwasher with lift-up hood.",
+        "technical_specifications": "Cycle: 60/90/120 sec; Tables: Requires inlet/outlet tables; Electrical: 3 Phase.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Hood+Type+Dishwasher",
+        "slug": "hood-type-dish-washer",
+        "specifications_object": {
+            "Cycle": "60/90/120 sec",
+            "Tables": "Requires inlet/outlet tables",
+            "Electrical": "3 Phase."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 92,
+        "category": "Dishwashing",
+        "equipment_name": "Entry - Exit Tables",
+        "professional_description": "Tables connecting to dishwasher.",
+        "technical_specifications": "Roller: Gravity rollers for easy rack movement; Plain: SS slide surface.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Entry+Exit+Tables",
+        "slug": "entry-exit-tables",
+        "specifications_object": {
+            "Roller": "Gravity rollers for easy rack movement",
+            "Plain": "SS slide surface."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 93,
+        "category": "Dishwashing",
+        "equipment_name": "Cutlery Polisher",
+        "professional_description": "Machine for drying and polishing silverware.",
+        "technical_specifications": "Medium: Corn cob/granules; Lamp: UV sanitization; Output: 3000+ pcs/hr.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cutlery+Polisher",
+        "slug": "cutlery-polisher",
+        "specifications_object": {
+            "Medium": "Corn cob/granules",
+            "Lamp": "UV sanitization",
+            "Output": "3000+ pcs/hr."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 94,
+        "category": "Dishwashing",
+        "equipment_name": "Glass Polisher",
+        "professional_description": "Machine with rotating brushes to dry glasses.",
+        "technical_specifications": "Brushes: Microfiber; Air: Hot air stream; Result: Spot free.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Glass+Polisher",
+        "slug": "glass-polisher",
+        "specifications_object": {
+            "Brushes": "Microfiber",
+            "Air": "Hot air stream",
+            "Result": "Spot free."
+        },
+        "categories": [
+            "Dishwashing"
+        ],
+        "primary_category": "Dishwashing"
+    },
+    {
+        "id": 95,
+        "category": "Fabrication",
+        "equipment_name": "Marble Top Table",
+        "professional_description": "Table with stone top for pastry/chocolate work.",
+        "technical_specifications": "Stone: Granite or Marble (cool surface); Base: SS frame heavy duty.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Marble+Top+Table",
+        "slug": "marble-top-table",
+        "specifications_object": {
+            "Stone": "Granite or Marble (cool surface)",
+            "Base": "SS frame heavy duty."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 96,
+        "category": "Beverage & Bar",
+        "equipment_name": "Milk Shakers",
+        "professional_description": "Countertop mixer for milkshakes.",
+        "technical_specifications": "Spindle: Single/Double; Cup: SS malt cup; Motor: 2-speed.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Milk+Shakers",
+        "slug": "milk-shakers",
+        "specifications_object": {
+            "Spindle": "Single/Double",
+            "Cup": "SS malt cup",
+            "Motor": "2-speed."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 97,
+        "category": "Cooking",
+        "equipment_name": "Toaster",
+        "professional_description": "Slot toaster for bread.",
+        "technical_specifications": "Slots: 4 or 6; Timer: Manual eject; Tray: Crumb tray.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Toaster",
+        "slug": "toaster",
+        "specifications_object": {
+            "Slots": "4 or 6",
+            "Timer": "Manual eject",
+            "Tray": "Crumb tray."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 98,
+        "category": "Cooking",
+        "equipment_name": "Conveyor Toaster",
+        "professional_description": "Continuous feed toaster for buffets.",
+        "technical_specifications": "Output: 300-800 slices/hr; Entry: Front; Exit: Front or Rear return.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Conveyor+Toaster",
+        "slug": "conveyor-toaster",
+        "specifications_object": {
+            "Output": "300-800 slices/hr",
+            "Entry": "Front",
+            "Exit": "Front or Rear return."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 99,
+        "category": "Cooking",
+        "equipment_name": "Corn Steamer",
+        "professional_description": "Cup corn steamer or cob steamer.",
+        "technical_specifications": "Tank: SS water bath; Control: Thermostat; Lid: Lift up.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Corn+Steamer",
+        "slug": "corn-steamer",
+        "specifications_object": {
+            "Tank": "SS water bath",
+            "Control": "Thermostat",
+            "Lid": "Lift up."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 100,
+        "category": "Cooking",
+        "equipment_name": "Popcorn Machine",
+        "professional_description": "Theater style popcorn popper.",
+        "technical_specifications": "Kettle: Teflon coated SS; Deck: Heated; Light: Presentation lamp.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Popcorn+Machine",
+        "slug": "popcorn-machine",
+        "specifications_object": {
+            "Kettle": "Teflon coated SS",
+            "Deck": "Heated",
+            "Light": "Presentation lamp."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 101,
+        "category": "Beverage & Bar",
+        "equipment_name": "Centrifugal Juicer",
+        "professional_description": "Fast juicer for hard fruits (apple, carrot).",
+        "technical_specifications": "RPM: High speed; Chute: Wide mouth; Waste: Pulp container.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Centrifugal+Juicer",
+        "slug": "centrifugal-juicer",
+        "specifications_object": {
+            "RPM": "High speed",
+            "Chute": "Wide mouth",
+            "Waste": "Pulp container."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 102,
+        "category": "Beverage & Bar",
+        "equipment_name": "Automatic Juicer",
+        "professional_description": "Citrus squeezer with feed ramp.",
+        "technical_specifications": "Fruit: Oranges/Lemons; Operation: Auto-feed and squeeze; Output: 20-30 fruits/min.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Automatic+Juicer",
+        "slug": "automatic-juicer",
+        "specifications_object": {
+            "Fruit": "Oranges/Lemons",
+            "Operation": "Auto-feed and squeeze",
+            "Output": "20-30 fruits/min."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 103,
+        "category": "Beverage & Bar",
+        "equipment_name": "Citrus Juicer",
+        "professional_description": "Manual or semi-auto reamer.",
+        "technical_specifications": "Cone: Interchangeable sizes; Activation: Pressure activated motor.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Citrus+Juicer",
+        "slug": "citrus-juicer",
+        "specifications_object": {
+            "Cone": "Interchangeable sizes",
+            "Activation": "Pressure activated motor."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 104,
+        "category": "Beverage & Bar",
+        "equipment_name": "Slow Juicer / Cold Press Juicer",
+        "professional_description": "Low speed juicer to preserve nutrients.",
+        "technical_specifications": "RPM: 40-80 RPM; Auger: Single or Twin; Sound: Silent.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Slow+Juicer",
+        "slug": "slow-juicer-cold-press-juicer",
+        "specifications_object": {
+            "RPM": "40-80 RPM",
+            "Auger": "Single or Twin",
+            "Sound": "Silent."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 105,
+        "category": "Refrigeration",
+        "equipment_name": "Sushi Display Chiller",
+        "professional_description": "Curved glass countertop chiller for sushi.",
+        "technical_specifications": "Cooling: Dual evaporators (top & bottom); Humidity: High to prevent drying.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Sushi+Display",
+        "slug": "sushi-display-chiller",
+        "specifications_object": {
+            "Cooling": "Dual evaporators (top & bottom)",
+            "Humidity": "High to prevent drying."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 106,
+        "category": "Beverage & Bar",
+        "equipment_name": "Blender",
+        "professional_description": "Commercial bar blender.",
+        "technical_specifications": "Jar: Polycarbonate 1.5-2L; Motor: High torque; Blade: SS assembly.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Blender",
+        "slug": "blender",
+        "specifications_object": {
+            "Jar": "Polycarbonate 1.5-2L",
+            "Motor": "High torque",
+            "Blade": "SS assembly."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 107,
+        "category": "Cooking",
+        "equipment_name": "Grill Toaster",
+        "professional_description": "Contact grill (Panini press).",
+        "technical_specifications": "Plates: Ribbed or Flat (Cast Iron); Handle: Heat resistant; Spring: Counter balanced.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Grill+Toaster",
+        "slug": "grill-toaster",
+        "specifications_object": {
+            "Plates": "Ribbed or Flat (Cast Iron)",
+            "Handle": "Heat resistant",
+            "Spring": "Counter balanced."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 108,
+        "category": "Cooking",
+        "equipment_name": "Popcorn Machine on Wheels",
+        "professional_description": "Popcorn machine mounted on a vintage cart.",
+        "technical_specifications": "Cart: Spoked wheels and handle; Storage: Inner compartment.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Popcorn+Cart",
+        "slug": "popcorn-machine-on-wheels",
+        "specifications_object": {
+            "Cart": "Spoked wheels and handle",
+            "Storage": "Inner compartment."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 109,
+        "category": "Beverage & Bar",
+        "equipment_name": "1 Group Espresso with Grinder",
+        "professional_description": "Semi-commercial coffee setup.",
+        "technical_specifications": "Boiler: 2-4 Liters; Pump: Rotary/Vibration; Grinder: Integrated or separate.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=1+Group+Espresso",
+        "slug": "1-group-espresso-with-grinder",
+        "specifications_object": {
+            "Boiler": "2-4 Liters",
+            "Pump": "Rotary/Vibration",
+            "Grinder": "Integrated or separate."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 110,
+        "category": "Beverage & Bar",
+        "equipment_name": "2 Group Espresso Machine",
+        "professional_description": "Standard cafe coffee machine.",
+        "technical_specifications": "Boiler: 10-14 Liters; Heads: 2 brewing groups; Steam Wands: 2.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=2+Group+Espresso",
+        "slug": "2-group-espresso-machine",
+        "specifications_object": {
+            "Boiler": "10-14 Liters",
+            "Heads": "2 brewing groups",
+            "Steam Wands": "2."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 111,
+        "category": "Beverage & Bar",
+        "equipment_name": "Instant Coffee Machine (Hot & Cold)",
+        "professional_description": "Vending style premix dispenser.",
+        "technical_specifications": "Canisters: 3-4 (Coffee, Milk, Choco, Sugar); Water: Plumbed or Tank.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Instant+Coffee+Machine",
+        "slug": "instant-coffee-machine-hot-cold",
+        "specifications_object": {
+            "Canisters": "3-4 (Coffee, Milk, Choco, Sugar)",
+            "Water": "Plumbed or Tank."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 112,
+        "category": "Cooking",
+        "equipment_name": "Crepe Machine",
+        "professional_description": "Round griddle for thin pancakes.",
+        "technical_specifications": "Plate: 400mm Cast Iron; Surface: Machined smooth; Spreader: Wooden included.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Crepe+Machine",
+        "slug": "crepe-machine",
+        "specifications_object": {
+            "Plate": "400mm Cast Iron",
+            "Surface": "Machined smooth",
+            "Spreader": "Wooden included."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 113,
+        "category": "Cooking",
+        "equipment_name": "Waffle Machine",
+        "professional_description": "Iron for baking waffles.",
+        "technical_specifications": "Shape: Square (Brussels) or Round; Grid: Cast aluminum/iron non-stick.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Waffle+Machine",
+        "slug": "waffle-machine",
+        "specifications_object": {
+            "Shape": "Square (Brussels) or Round",
+            "Grid": "Cast aluminum/iron non-stick."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 114,
+        "category": "Display",
+        "equipment_name": "Confectionery Counter (Cold)",
+        "professional_description": "Refrigerated pastry display.",
+        "technical_specifications": "Temp: +2 to +8°C; Air: Ventilated (Fan); Glass: Curved/Flat front.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cold+Confectionery",
+        "slug": "confectionery-counter-cold",
+        "specifications_object": {
+            "Temp": "+2 to +8°C",
+            "Air": "Ventilated (Fan)",
+            "Glass": "Curved/Flat front."
+        },
+        "categories": [
+            "Display"
+        ],
+        "primary_category": "Display"
+    },
+    {
+        "id": 115,
+        "category": "Cooking",
+        "equipment_name": "Table Top Gas Cooker",
+        "professional_description": "Portable gas burner.",
+        "technical_specifications": "Burners: 1 or 2; Material: SS body; Ignition: Manual/Piezo.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Table+Top+Gas",
+        "slug": "table-top-gas-cooker",
+        "specifications_object": {
+            "Burners": "1 or 2",
+            "Material": "SS body",
+            "Ignition": "Manual/Piezo."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 116,
+        "category": "Cooking",
+        "equipment_name": "Table Top Electric Cooker",
+        "professional_description": "Portable hot plate or induction.",
+        "technical_specifications": "Element: Coil or Solid disk; Housing: SS; Control: Knob.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Table+Top+Electric",
+        "slug": "table-top-electric-cooker",
+        "specifications_object": {
+            "Element": "Coil or Solid disk",
+            "Housing": "SS",
+            "Control": "Knob."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 117,
+        "category": "Beverage & Bar",
+        "equipment_name": "Ice Crushers",
+        "professional_description": "Machine to break ice cubes into chips.",
+        "technical_specifications": "Blade: Heavy duty SS; Hopper: Top feed; Safety: Motor brake.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ice+Crusher",
+        "slug": "ice-crushers",
+        "specifications_object": {
+            "Blade": "Heavy duty SS",
+            "Hopper": "Top feed",
+            "Safety": "Motor brake."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 118,
+        "category": "Beverage & Bar",
+        "equipment_name": "Ice Shaver",
+        "professional_description": "Machine to shave ice into snow (Kakigori).",
+        "technical_specifications": "Adjustment: Fine to coarse; Operation: Electric.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ice+Shaver",
+        "slug": "ice-shaver",
+        "specifications_object": {
+            "Adjustment": "Fine to coarse",
+            "Operation": "Electric."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 119,
+        "category": "Beverage & Bar",
+        "equipment_name": "Coffee Grinder",
+        "professional_description": "Espresso or bulk grinder.",
+        "technical_specifications": "Burrs: Conical or Flat steel; Doser: With or without (On demand).",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Coffee+Grinder",
+        "slug": "coffee-grinder",
+        "specifications_object": {
+            "Burrs": "Conical or Flat steel",
+            "Doser": "With or without (On demand)."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 120,
+        "category": "Beverage & Bar",
+        "equipment_name": "Tea Brewing Machine",
+        "professional_description": "Bulk tea brewer.",
+        "technical_specifications": "Urn: SS portable; Tap: Non-drip; Filter: Paper/Mesh.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Tea+Brewer",
+        "slug": "tea-brewing-machine",
+        "specifications_object": {
+            "Urn": "SS portable",
+            "Tap": "Non-drip",
+            "Filter": "Paper/Mesh."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 121,
+        "category": "Beverage & Bar",
+        "equipment_name": "Ice Cream Machine",
+        "professional_description": "Soft serve or batch freezer.",
+        "technical_specifications": "Flavors: 2 + Twist (Soft serve); Compressor: Air/Water cooled.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ice+Cream+Machine",
+        "slug": "ice-cream-machine",
+        "specifications_object": {
+            "Flavors": "2 + Twist (Soft serve)",
+            "Compressor": "Air/Water cooled."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 122,
+        "category": "Beverage & Bar",
+        "equipment_name": "Coffee Percolater",
+        "professional_description": "Gravity fed coffee urn.",
+        "technical_specifications": "Capacity: 50-100 cups; Heater: Keep warm function; Gauge: Sight glass.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Coffee+Percolator",
+        "slug": "coffee-percolater",
+        "specifications_object": {
+            "Capacity": "50-100 cups",
+            "Heater": "Keep warm function",
+            "Gauge": "Sight glass."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 123,
+        "category": "Beverage & Bar",
+        "equipment_name": "Coffee Brewer",
+        "professional_description": "Drip filter coffee machine.",
+        "technical_specifications": "Carafe: Glass or Thermos (1.8L); Plumbed: Manual or Automatic fill.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Coffee+Brewer",
+        "slug": "coffee-brewer",
+        "specifications_object": {
+            "Carafe": "Glass or Thermos (1.8L)",
+            "Plumbed": "Manual or Automatic fill."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 124,
+        "category": "Display",
+        "equipment_name": "Confectionery Counter (Hot)",
+        "professional_description": "Heated display for warm snacks.",
+        "technical_specifications": "Temp: 30-90°C; Humidity: Water tray included.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Hot+Confectionery",
+        "slug": "confectionery-counter-hot",
+        "specifications_object": {
+            "Temp": "30-90°C",
+            "Humidity": "Water tray included."
+        },
+        "categories": [
+            "Display"
+        ],
+        "primary_category": "Display"
+    },
+    {
+        "id": 125,
+        "category": "Cooking",
+        "equipment_name": "Cotton Candy Machine",
+        "professional_description": "Sugar spinning machine.",
+        "technical_specifications": "Bowl: Large aluminum/SS; Head: High RPM spinner.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cotton+Candy+Machine",
+        "slug": "cotton-candy-machine",
+        "specifications_object": {
+            "Bowl": "Large aluminum/SS",
+            "Head": "High RPM spinner."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 126,
+        "category": "Cooking",
+        "equipment_name": "Bun Warmer",
+        "professional_description": "Drawer unit for warming burger buns.",
+        "technical_specifications": "Drawers: 1 or 2; Heat: Dry/Humidified; Size: GN compatible.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bun+Warmer",
+        "slug": "bun-warmer",
+        "specifications_object": {
+            "Drawers": "1 or 2",
+            "Heat": "Dry/Humidified",
+            "Size": "GN compatible."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 127,
+        "category": "Beverage & Bar",
+        "equipment_name": "Gelato Machine",
+        "professional_description": "Artisan ice cream batch freezer.",
+        "technical_specifications": "Extraction: Front door; Beater: SS with scrapers; Cycle: 8-12 mins.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Gelato+Machine",
+        "slug": "gelato-machine",
+        "specifications_object": {
+            "Extraction": "Front door",
+            "Beater": "SS with scrapers",
+            "Cycle": "8-12 mins."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 128,
+        "category": "Cooking",
+        "equipment_name": "Cheese Warmer",
+        "professional_description": "Pump dispenser for nacho cheese.",
+        "technical_specifications": "Heating: Water bath/Dry; Pump: Portion control.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cheese+Warmer",
+        "slug": "cheese-warmer",
+        "specifications_object": {
+            "Heating": "Water bath/Dry",
+            "Pump": "Portion control."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 129,
+        "category": "Display",
+        "equipment_name": "Nachos Cabinet",
+        "professional_description": "Box warmer for tortilla chips.",
+        "technical_specifications": "Loading: Top load; Heating: Bottom element + Light.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Nachos+Cabinet",
+        "slug": "nachos-cabinet",
+        "specifications_object": {
+            "Loading": "Top load",
+            "Heating": "Bottom element + Light."
+        },
+        "categories": [
+            "Display"
+        ],
+        "primary_category": "Display"
+    },
+    {
+        "id": 130,
+        "category": "Cooking",
+        "equipment_name": "Hot Dog Warmer",
+        "professional_description": "Roller grill or steam cabinet.",
+        "technical_specifications": "Rollers: Non-stick coated; Zones: Front/Back temp control.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Hot+Dog+Warmer",
+        "slug": "hot-dog-warmer",
+        "specifications_object": {
+            "Rollers": "Non-stick coated",
+            "Zones": "Front/Back temp control."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 131,
+        "category": "Beverage & Bar",
+        "equipment_name": "Glass Frosters",
+        "professional_description": "Top loading freezer for chilling beer glasses.",
+        "technical_specifications": "Temp: -20°C; Speed: Rapid chill; Defrost: Manual.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Glass+Froster",
+        "slug": "glass-frosters",
+        "specifications_object": {
+            "Temp": "-20°C",
+            "Speed": "Rapid chill",
+            "Defrost": "Manual."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 132,
+        "category": "Cooking",
+        "equipment_name": "Stick Waffle Machine",
+        "professional_description": "Waffle iron with molds for sticks.",
+        "technical_specifications": "Shape: Corn dog / Lolly; Capacity: 4-6 pcs.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Stick+Waffle",
+        "slug": "stick-waffle-machine",
+        "specifications_object": {
+            "Shape": "Corn dog / Lolly",
+            "Capacity": "4-6 pcs."
+        },
+        "categories": [
+            "Cooking"
+        ],
+        "primary_category": "Cooking"
+    },
+    {
+        "id": 133,
+        "category": "Prep",
+        "equipment_name": "Bone Saw Machine",
+        "professional_description": "Electric saw for frozen meat/bones.",
+        "technical_specifications": "Blade: Band saw; Table: Sliding SS; Safety: Pusher plate.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bone+Saw",
+        "slug": "bone-saw-machine",
+        "specifications_object": {
+            "Blade": "Band saw",
+            "Table": "Sliding SS",
+            "Safety": "Pusher plate."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 134,
+        "category": "Prep",
+        "equipment_name": "Dough Roller",
+        "professional_description": "Pizza/Roti flattening machine.",
+        "technical_specifications": "Rollers: Synthetic non-stick; Adjustment: Micrometric.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dough+Roller",
+        "slug": "dough-roller",
+        "specifications_object": {
+            "Rollers": "Synthetic non-stick",
+            "Adjustment": "Micrometric."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 135,
+        "category": "Bakery & Prep",
+        "equipment_name": "Dough Sheeter",
+        "professional_description": "Reversible belt machine for puff pastry.",
+        "technical_specifications": "Belts: Canvas; Operation: Joystick/Pedal; Floor/Table model.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dough+Sheeter",
+        "slug": "dough-sheeter",
+        "specifications_object": {
+            "Belts": "Canvas",
+            "Operation": "Joystick/Pedal",
+            "note_2": "Floor/Table model."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 136,
+        "category": "Prep",
+        "equipment_name": "Hommus Machine",
+        "professional_description": "Vertical cutter mixer for pastes.",
+        "technical_specifications": "RPM: 1500-3000; Blade: Serrated/Smooth; Bowl: SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Hommus+Machine",
+        "slug": "hommus-machine",
+        "specifications_object": {
+            "RPM": "1500-3000",
+            "Blade": "Serrated/Smooth",
+            "Bowl": "SS."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 137,
+        "category": "Bakery & Prep",
+        "equipment_name": "Dough Mixer",
+        "professional_description": "Planetary or Spiral mixer.",
+        "technical_specifications": "Bowl: SS; Tools: Hook, Paddle, Whisk (Planetary); Speed: Multi-speed.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dough+Mixer",
+        "slug": "dough-mixer",
+        "specifications_object": {
+            "Bowl": "SS",
+            "Tools": "Hook, Paddle, Whisk (Planetary)",
+            "Speed": "Multi-speed."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 138,
+        "category": "Prep",
+        "equipment_name": "Wet Grinder",
+        "professional_description": "Stone grinder for Indian batters.",
+        "technical_specifications": "Stones: Granite conical/cylindrical; Drum: SS tilting.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wet+Grinder",
+        "slug": "wet-grinder",
+        "specifications_object": {
+            "Stones": "Granite conical/cylindrical",
+            "Drum": "SS tilting."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 139,
+        "category": "Bakery & Prep",
+        "equipment_name": "Tilting Type Dough Kneader",
+        "professional_description": "Fork or arm mixer with tilting bowl.",
+        "technical_specifications": "Capacity: 25kg+ flour; Action: Gentle kneading.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Tilting+Kneader",
+        "slug": "tilting-type-dough-kneader",
+        "specifications_object": {
+            "Capacity": "25kg+ flour",
+            "Action": "Gentle kneading."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 140,
+        "category": "Prep",
+        "equipment_name": "Pulveriser",
+        "professional_description": "Impact mill for dry grinding spices/sugar.",
+        "technical_specifications": "Hammer: SS beaters; Screen: Interchangeable mesh.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pulveriser",
+        "slug": "pulveriser",
+        "specifications_object": {
+            "Hammer": "SS beaters",
+            "Screen": "Interchangeable mesh."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 141,
+        "category": "Bakery & Prep",
+        "equipment_name": "Spiral Mixer",
+        "professional_description": "Mixer with rotating bowl and hook.",
+        "technical_specifications": "Efficiency: High hydration dough; Timer: Dual (Low/High speed).",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Spiral+Mixer",
+        "slug": "spiral-mixer",
+        "specifications_object": {
+            "Efficiency": "High hydration dough",
+            "Timer": "Dual (Low/High speed)."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 142,
+        "category": "Bakery & Prep",
+        "equipment_name": "Bread Slicer",
+        "professional_description": "Loaf slicing machine.",
+        "technical_specifications": "Blades: Reciprocating frame; Thickness: 10/12/14mm fixed.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bread+Slicer",
+        "slug": "bread-slicer",
+        "specifications_object": {
+            "Blades": "Reciprocating frame",
+            "Thickness": "10/12/14mm fixed."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 143,
+        "category": "Bakery & Prep",
+        "equipment_name": "Dough Rounder",
+        "professional_description": "Machine to ball up dough portions.",
+        "technical_specifications": "Cone: Spiraling channel; Surface: Teflon/Felt.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dough+Rounder",
+        "slug": "dough-rounder",
+        "specifications_object": {
+            "Cone": "Spiraling channel",
+            "Surface": "Teflon/Felt."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 144,
+        "category": "Prep",
+        "equipment_name": "Processing Tools",
+        "professional_description": "Handheld gadgets.",
+        "technical_specifications": "Items: Mandolines, graters, zesters, peelers.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Processing+Tools",
+        "slug": "processing-tools",
+        "specifications_object": {
+            "Items": "Mandolines, graters, zesters, peelers."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 145,
+        "category": "Prep",
+        "equipment_name": "Veg. Prep. Machine",
+        "professional_description": "Continuous feed slicer/dicer.",
+        "technical_specifications": "Discs: Slicing, Dicing, Grating, Julienne; Hopper: Kidney shape + Tube.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Veg+Prep+Machine",
+        "slug": "veg-prep-machine",
+        "specifications_object": {
+            "Discs": "Slicing, Dicing, Grating, Julienne",
+            "Hopper": "Kidney shape + Tube."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 146,
+        "category": "Prep",
+        "equipment_name": "Potato Peeler",
+        "professional_description": "Abrasive rumbler for root veg.",
+        "technical_specifications": "Lining: Carborundum; Water: Inlet required; Timer: Mechanical.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Potato+Peeler",
+        "slug": "potato-peeler",
+        "specifications_object": {
+            "Lining": "Carborundum",
+            "Water": "Inlet required",
+            "Timer": "Mechanical."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 147,
+        "category": "Prep",
+        "equipment_name": "Mixer Grinder",
+        "professional_description": "Heavy duty blender (Indian style).",
+        "technical_specifications": "Jars: 3 SS jars; Motor: 750W-1000W; Coupler: Durable plastic.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Mixer+Grinder",
+        "slug": "mixer-grinder",
+        "specifications_object": {
+            "Jars": "3 SS jars",
+            "Motor": "750W-1000W",
+            "Coupler": "Durable plastic."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 148,
+        "category": "Prep",
+        "equipment_name": "Hand Mixers",
+        "professional_description": "Stick blender (Immersion).",
+        "technical_specifications": "Shaft: Removable SS; Length: 200-600mm; Motor: Variable speed.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Hand+Mixers",
+        "slug": "hand-mixers",
+        "specifications_object": {
+            "Shaft": "Removable SS",
+            "Length": "200-600mm",
+            "Motor": "Variable speed."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 149,
+        "category": "Prep",
+        "equipment_name": "Slicer",
+        "professional_description": "Gravity feed meat slicer.",
+        "technical_specifications": "Blade: 250-350mm; Guard: Ring guard; Sharpener: Built-in.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Slicer",
+        "slug": "slicer",
+        "specifications_object": {
+            "Blade": "250-350mm",
+            "Guard": "Ring guard",
+            "Sharpener": "Built-in."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 150,
+        "category": "Prep",
+        "equipment_name": "Mincer",
+        "professional_description": "Meat grinder.",
+        "technical_specifications": "Head: SS Size 12/22/32; Plate: 4.5mm/6mm/8mm; Tray: SS feed tray.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Mincer",
+        "slug": "mincer",
+        "specifications_object": {
+            "Head": "SS Size 12/22/32",
+            "Plate": "4.5mm/6mm/8mm",
+            "Tray": "SS feed tray."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 151,
+        "category": "Bakery & Prep",
+        "equipment_name": "Dough Divider",
+        "professional_description": "Hydraulic machine to cut dough.",
+        "technical_specifications": "Portions: 16/20/30 equal pieces; Operation: Manual/Semi-auto.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dough+Divider",
+        "slug": "dough-divider",
+        "specifications_object": {
+            "Portions": "16/20/30 equal pieces",
+            "Operation": "Manual/Semi-auto."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 152,
+        "category": "Prep",
+        "equipment_name": "Dehydrator",
+        "professional_description": "Drying cabinet for fruit/jerky.",
+        "technical_specifications": "Airflow: Horizontal fan; Trays: Mesh; Temp: 30-70°C.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dehydrator",
+        "slug": "dehydrator",
+        "specifications_object": {
+            "Airflow": "Horizontal fan",
+            "Trays": "Mesh",
+            "Temp": "30-70°C."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 153,
+        "category": "Bakery & Prep",
+        "equipment_name": "Dough Ball Making Machine",
+        "professional_description": "Divider Rounder combo.",
+        "technical_specifications": "Output: Continuous; Weight: Adjustable range.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dough+Ball+Maker",
+        "slug": "dough-ball-making-machine",
+        "specifications_object": {
+            "Output": "Continuous",
+            "Weight": "Adjustable range."
+        },
+        "categories": [
+            "Bakery",
+            "Prep"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 154,
+        "category": "Prep",
+        "equipment_name": "Salad Dryer",
+        "professional_description": "Spinner for washing greens.",
+        "technical_specifications": "Mechanism: Gear driven crank; Material: Plastic/SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Salad+Dryer",
+        "slug": "salad-dryer",
+        "specifications_object": {
+            "Mechanism": "Gear driven crank",
+            "Material": "Plastic/SS."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 155,
+        "category": "Prep",
+        "equipment_name": "Masala Grinder",
+        "professional_description": "Commercial spice grinder.",
+        "technical_specifications": "Swing: Tilting type; Speed: 2800 RPM; Blade: SS impact.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Masala+Grinder",
+        "slug": "masala-grinder",
+        "specifications_object": {
+            "Swing": "Tilting type",
+            "Speed": "2800 RPM",
+            "Blade": "SS impact."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 156,
+        "category": "Prep",
+        "equipment_name": "Chapati Pressing Machine",
+        "professional_description": "Pneumatic/Manual press.",
+        "technical_specifications": "Plates: Heated non-stick; Temp: Adjustable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Chapati+Press",
+        "slug": "chapati-pressing-machine",
+        "specifications_object": {
+            "Plates": "Heated non-stick",
+            "Temp": "Adjustable."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 157,
+        "category": "Prep",
+        "equipment_name": "Pasta Machine",
+        "professional_description": "Extruder or Roller.",
+        "technical_specifications": "Dies: Bronze/Teflon; Cutter: Electronic or manual.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pasta+Machine",
+        "slug": "pasta-machine",
+        "specifications_object": {
+            "Dies": "Bronze/Teflon",
+            "Cutter": "Electronic or manual."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 158,
+        "category": "Prep",
+        "equipment_name": "Coconut Scrapping Machine",
+        "professional_description": "Motorized scraping head.",
+        "technical_specifications": "Head: SS toothed; Shield: Protective cover.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Coconut+Scraper",
+        "slug": "coconut-scrapping-machine",
+        "specifications_object": {
+            "Head": "SS toothed",
+            "Shield": "Protective cover."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 159,
+        "category": "Prep",
+        "equipment_name": "Nut Processing (Powder, Dicing, Slicing)",
+        "professional_description": "Specialty nut machines.",
+        "technical_specifications": "Action: Chop/Grind/Slice almonds/pistachios.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Nut+Processing",
+        "slug": "nut-processing-powder-dicing-slicing",
+        "specifications_object": {
+            "Action": "Chop/Grind/Slice almonds/pistachios."
+        },
+        "categories": [
+            "Prep"
+        ],
+        "primary_category": "Prep"
+    },
+    {
+        "id": 160,
+        "category": "Laundry",
+        "equipment_name": "Tumbler Dryer",
+        "professional_description": "Drying machine for linen.",
+        "technical_specifications": "Heat: Gas/Steam/Electric; Drum: Reversing action; Lint filter: Large area.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Tumbler+Dryer",
+        "slug": "tumbler-dryer",
+        "specifications_object": {
+            "Heat": "Gas/Steam/Electric",
+            "Drum": "Reversing action",
+            "Lint filter": "Large area."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 161,
+        "category": "Laundry",
+        "equipment_name": "Hydro Extractor",
+        "professional_description": "Centrifuge for water removal.",
+        "technical_specifications": "Mount: Suspended/Rigid; Brake: Automatic; Basket: SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Hydro+Extractor",
+        "slug": "hydro-extractor",
+        "specifications_object": {
+            "Mount": "Suspended/Rigid",
+            "Brake": "Automatic",
+            "Basket": "SS."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 162,
+        "category": "Laundry",
+        "equipment_name": "Laundry Machine (Hard & Soft Mounted)",
+        "professional_description": "Washer Extractor.",
+        "technical_specifications": "Mount: Hard (bolted) / Soft (shock absorbers); G-Force: High spin.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Laundry+Washer",
+        "slug": "laundry-machine-hard-soft-mounted",
+        "specifications_object": {
+            "Mount": "Hard (bolted) / Soft (shock absorbers)",
+            "G-Force": "High spin."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 163,
+        "category": "Laundry",
+        "equipment_name": "Laundry Trolleys",
+        "professional_description": "Carts for linen transport.",
+        "technical_specifications": "Bag: Canvas/PVC; Frame: SS/Collapsible.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Laundry+Trolley",
+        "slug": "laundry-trolleys",
+        "specifications_object": {
+            "Bag": "Canvas/PVC",
+            "Frame": "SS/Collapsible."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 164,
+        "category": "Laundry",
+        "equipment_name": "Dry Cleaning Machine",
+        "professional_description": "Solvent based cleaner.",
+        "technical_specifications": "Solvent: Perc/Hydrocarbon; System: Closed loop distillation.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dry+Cleaning+Machine",
+        "slug": "dry-cleaning-machine",
+        "specifications_object": {
+            "Solvent": "Perc/Hydrocarbon",
+            "System": "Closed loop distillation."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 165,
+        "category": "Laundry",
+        "equipment_name": "Labelling Machine",
+        "professional_description": "Heat seal labeler.",
+        "technical_specifications": "Tape: Thermopatch; Operation: Pedal/Auto.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Labelling+Machine",
+        "slug": "labelling-machine",
+        "specifications_object": {
+            "Tape": "Thermopatch",
+            "Operation": "Pedal/Auto."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 166,
+        "category": "Laundry",
+        "equipment_name": "Flatwork Ironer",
+        "professional_description": "Roller ironer for bedsheets.",
+        "technical_specifications": "Roller: Heated cylinder; Width: 1.6m - 3m; Feed: Manual.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Flatwork+Ironer",
+        "slug": "flatwork-ironer",
+        "specifications_object": {
+            "Roller": "Heated cylinder",
+            "Width": "1.6m - 3m",
+            "Feed": "Manual."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 167,
+        "category": "Laundry",
+        "equipment_name": "Pneumatic Press",
+        "professional_description": "Utility press for uniforms.",
+        "technical_specifications": "Buck: Padded shape; Head: Steam heated polished; Operation: Air operated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pneumatic+Press",
+        "slug": "pneumatic-press",
+        "specifications_object": {
+            "Buck": "Padded shape",
+            "Head": "Steam heated polished",
+            "Operation": "Air operated."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 168,
+        "category": "Laundry",
+        "equipment_name": "Steam Iron",
+        "professional_description": "Hand iron with boiler connection.",
+        "technical_specifications": "Soleplate: Aluminum/SS; Steam: Trigger activated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Steam+Iron",
+        "slug": "steam-iron",
+        "specifications_object": {
+            "Soleplate": "Aluminum/SS",
+            "Steam": "Trigger activated."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 169,
+        "category": "Laundry",
+        "equipment_name": "Form Finishers",
+        "professional_description": "Mannequin for coats/shirts.",
+        "technical_specifications": "Inflation: Steam/Air bag; Cycle: Auto timer.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Form+Finisher",
+        "slug": "form-finishers",
+        "specifications_object": {
+            "Inflation": "Steam/Air bag",
+            "Cycle": "Auto timer."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 170,
+        "category": "Laundry",
+        "equipment_name": "Laundry Dry Iron",
+        "professional_description": "Heavy electric iron (no steam).",
+        "technical_specifications": "Weight: 2-3kg; Control: Thermostat dial.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dry+Iron",
+        "slug": "laundry-dry-iron",
+        "specifications_object": {
+            "Weight": "2-3kg",
+            "Control": "Thermostat dial."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 171,
+        "category": "Laundry",
+        "equipment_name": "Ironing Table",
+        "professional_description": "Vacuum/Blowing table.",
+        "technical_specifications": "Surface: Heated buck; Pedal: Vacuum activation; Arm: Sleeve arm.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ironing+Table",
+        "slug": "ironing-table",
+        "specifications_object": {
+            "Surface": "Heated buck",
+            "Pedal": "Vacuum activation",
+            "Arm": "Sleeve arm."
+        },
+        "categories": [
+            "Laundry"
+        ],
+        "primary_category": "Laundry"
+    },
+    {
+        "id": 172,
+        "category": "Buffet",
+        "equipment_name": "Chaffing Dish (Fuel & Electric)",
+        "professional_description": "Food warmer for service.",
+        "technical_specifications": "Lid: Roll top/Hydraulic; Pan: GN 1/1; Heat: Gel fuel/Electric coil.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Chaffing+Dish",
+        "slug": "chaffing-dish-fuel-electric",
+        "specifications_object": {
+            "Lid": "Roll top/Hydraulic",
+            "Pan": "GN 1/1",
+            "Heat": "Gel fuel/Electric coil."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 173,
+        "category": "Buffet",
+        "equipment_name": "Electric Soup Warmer",
+        "professional_description": "Soup kettle.",
+        "technical_specifications": "Capacity: 10 Liters; Insert: SS pot; Outer: Painted/SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Soup+Warmer",
+        "slug": "electric-soup-warmer",
+        "specifications_object": {
+            "Capacity": "10 Liters",
+            "Insert": "SS pot",
+            "Outer": "Painted/SS."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 174,
+        "category": "Buffet",
+        "equipment_name": "Coffee Warmer",
+        "professional_description": "Hot plate for decanters.",
+        "technical_specifications": "Plates: 2 stations; Switch: Independent.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Coffee+Warmer",
+        "slug": "coffee-warmer",
+        "specifications_object": {
+            "Plates": "2 stations",
+            "Switch": "Independent."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 175,
+        "category": "Buffet",
+        "equipment_name": "Juice Dispenser",
+        "professional_description": "Non-electric cold dispenser.",
+        "technical_specifications": "Cooling: Center ice core tube; Body: SS & Polycarbonate.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Juice+Dispenser",
+        "slug": "juice-dispenser",
+        "specifications_object": {
+            "Cooling": "Center ice core tube",
+            "Body": "SS & Polycarbonate."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 176,
+        "category": "Buffet",
+        "equipment_name": "Steel & Marble Buffet Displays",
+        "professional_description": "Risers and stands.",
+        "technical_specifications": "Material: SS frame with Marble/Glass slabs.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Buffet+Display",
+        "slug": "steel-marble-buffet-displays",
+        "specifications_object": {
+            "Material": "SS frame with Marble/Glass slabs."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 177,
+        "category": "Buffet",
+        "equipment_name": "Stone Slate Buffet Displays",
+        "professional_description": "Natural slate platters.",
+        "technical_specifications": "Edges: Rough/Cut; Feet: Non-slip.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Slate+Display",
+        "slug": "stone-slate-buffet-displays",
+        "specifications_object": {
+            "Edges": "Rough/Cut",
+            "Feet": "Non-slip."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 178,
+        "category": "Buffet",
+        "equipment_name": "Ceramic Buffet Displays",
+        "professional_description": "Bowls and platters.",
+        "technical_specifications": "Material: High grade porcelain; Color: White/Colors.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ceramic+Display",
+        "slug": "ceramic-buffet-displays",
+        "specifications_object": {
+            "Material": "High grade porcelain",
+            "Color": "White/Colors."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 179,
+        "category": "Buffet",
+        "equipment_name": "Glass Buffet Displays",
+        "professional_description": "Elevated glass shelves.",
+        "technical_specifications": "Glass: Toughened; Shape: Round/Square/Rectangular.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Glass+Display",
+        "slug": "glass-buffet-displays",
+        "specifications_object": {
+            "Glass": "Toughened",
+            "Shape": "Round/Square/Rectangular."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 180,
+        "category": "Buffet",
+        "equipment_name": "Acrylic Buffet Displays",
+        "professional_description": "Lightweight risers.",
+        "technical_specifications": "Clarity: High transparency; Durability: Scratch resistant.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Acrylic+Display",
+        "slug": "acrylic-buffet-displays",
+        "specifications_object": {
+            "Clarity": "High transparency",
+            "Durability": "Sketch resistant."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 181,
+        "category": "Buffet",
+        "equipment_name": "Heated Light Displays",
+        "professional_description": "Carving station lamps.",
+        "technical_specifications": "Lamp: Infrared bulb; Base: Cutting board/Stone.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Heated+Lamp",
+        "slug": "heated-light-displays",
+        "specifications_object": {
+            "Lamp": "Infrared bulb",
+            "Base": "Cutting board/Stone."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 182,
+        "category": "Buffet",
+        "equipment_name": "Oozie Chaffing Dish",
+        "professional_description": "Round chafer for rice (Ouzi).",
+        "technical_specifications": "Size: Large diameter; Lid: Dome cover.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Oozie+Dish",
+        "slug": "oozie-chaffing-dish",
+        "specifications_object": {
+            "Size": "Large diameter",
+            "Lid": "Dome cover."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 183,
+        "category": "Buffet",
+        "equipment_name": "Cereal Dispenser",
+        "professional_description": "Dry food dispenser.",
+        "technical_specifications": "Mechanism: Paddle wheel; Mounting: Stand/Wall.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cereal+Dispenser",
+        "slug": "cereal-dispenser",
+        "specifications_object": {
+            "Mechanism": "Paddle wheel",
+            "Mounting": "Stand/Wall."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 184,
+        "category": "Buffet",
+        "equipment_name": "Chaffing Dish (Induction)",
+        "professional_description": "Chafer for induction hobs.",
+        "technical_specifications": "Base: Magnetic SS; Water bath: Yes; Lid: Soft close.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Induction+Chafer",
+        "slug": "chaffing-dish-induction",
+        "specifications_object": {
+            "Base": "Magnetic SS",
+            "Water bath": "Yes",
+            "Lid": "Soft close."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 185,
+        "category": "Buffet",
+        "equipment_name": "Wooden Buffet Displays",
+        "professional_description": "Rustic crates and boards.",
+        "technical_specifications": "Wood: Treated (Acacia/Oak); Food safe: Oil finish.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wooden+Display",
+        "slug": "wooden-buffet-displays",
+        "specifications_object": {
+            "Wood": "Treated (Acacia/Oak)",
+            "Food safe": "Oil finish."
+        },
+        "categories": [
+            "Buffet"
+        ],
+        "primary_category": "Buffet"
+    },
+    {
+        "id": 186,
+        "category": "Beverage & Bar",
+        "equipment_name": "Revolving Cup Dispenser",
+        "professional_description": "Cup holder carousel.",
+        "technical_specifications": "Tubes: 4 sections; Material: SS/Plastic.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cup+Dispenser",
+        "slug": "revolving-cup-dispenser",
+        "specifications_object": {
+            "Tubes": "4 sections",
+            "Material": "SS/Plastic."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 187,
+        "category": "Refrigeration",
+        "equipment_name": "Wine Cooler",
+        "professional_description": "Bottle storage fridge.",
+        "technical_specifications": "Shelves: Wooden slide-out; Door: UV tinted glass; Zones: Dual temp.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wine+Cooler",
+        "slug": "wine-cooler",
+        "specifications_object": {
+            "Shelves": "Wooden slide-out",
+            "Door": "UV tinted glass",
+            "Zones": "Dual temp."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 188,
+        "category": "Refrigeration",
+        "equipment_name": "Double Door Glass Door (Chiller / Freezer)",
+        "professional_description": "Vertical display fridge.",
+        "technical_specifications": "Volume: ~1000L; Shelves: Adjustable; Header: Illuminated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Double+Glass+Fridge",
+        "slug": "double-door-glass-door-chiller-freezer",
+        "specifications_object": {
+            "Volume": "~1000L",
+            "Shelves": "Adjustable",
+            "Header": "Illuminated."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 189,
+        "category": "Refrigeration",
+        "equipment_name": "Single Door",
+        "professional_description": "Vertical storage fridge/freezer.",
+        "technical_specifications": "Standard: GN 2/1 shelves; Finish: SS int/ext.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Single+Door+Fridge",
+        "slug": "single-door",
+        "specifications_object": {
+            "Standard": "GN 2/1 shelves",
+            "Finish": "SS int/ext."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 190,
+        "category": "Refrigeration",
+        "equipment_name": "Table Top Chiller",
+        "professional_description": "Mini display fridge.",
+        "technical_specifications": "Defrost: Auto; Light: LED; Controller: Digital.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Table+Top+Chiller",
+        "slug": "table-top-chiller",
+        "specifications_object": {
+            "Defrost": "Auto",
+            "Light": "LED",
+            "Controller": "Digital."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 191,
+        "category": "Refrigeration",
+        "equipment_name": "Chest Freezers",
+        "professional_description": "Horizontal deep freezer.",
+        "technical_specifications": "Lid: Hard top/Glass slider; Baskets: Wire included.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Chest+Freezer",
+        "slug": "chest-freezers",
+        "specifications_object": {
+            "Lid": "Hard top/Glass slider",
+            "Baskets": "Wire included."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 192,
+        "category": "Refrigeration",
+        "equipment_name": "Pizza Prep. Table",
+        "professional_description": "Prep counter with raised rail.",
+        "technical_specifications": "Rail: For GN ingredient pans; Worktop: Granite/SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pizza+Prep+Table",
+        "slug": "pizza-prep-table",
+        "specifications_object": {
+            "Rail": "For GN ingredient pans",
+            "Worktop": "Granite/SS."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 193,
+        "category": "Refrigeration",
+        "equipment_name": "Ice Cube Machine",
+        "professional_description": "Ice maker.",
+        "technical_specifications": "Ice Shape: Cube/Bullet/Flake; Bin: Integrated or Separate.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ice+Machine",
+        "slug": "ice-cube-machine",
+        "specifications_object": {
+            "Ice Shape": "Cube/Bullet/Flake",
+            "Bin": "Integrated or Separate."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 194,
+        "category": "Refrigeration",
+        "equipment_name": "Bottle Coolers",
+        "professional_description": "Back bar fridge.",
+        "technical_specifications": "Height: Under counter (900mm); Doors: Glass sliding/hinged.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bottle+Cooler",
+        "slug": "bottle-coolers",
+        "specifications_object": {
+            "Height": "Under counter (900mm)",
+            "Doors": "Glass sliding/hinged."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 195,
+        "category": "Refrigeration",
+        "equipment_name": "Blast Chiller Freezer",
+        "professional_description": "Rapid cooling shock freezer.",
+        "technical_specifications": "Cycle: +90°C to +3°C (90 min); Probe: Heated core probe.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Blast+Chiller",
+        "slug": "blast-chiller-freezer",
+        "specifications_object": {
+            "Cycle": "+90°C to +3°C (90 min)",
+            "Probe": "Heated core probe."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 196,
+        "category": "Refrigeration",
+        "equipment_name": "SS Work Top Refrigeration Unit",
+        "professional_description": "Counter fridge.",
+        "technical_specifications": "Depth: 600/700mm; Splashback: Integrated.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Work+Top+Fridge",
+        "slug": "ss-work-top-refrigeration-unit",
+        "specifications_object": {
+            "Depth": "600/700mm",
+            "Splashback": "Integrated."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 197,
+        "category": "Refrigeration",
+        "equipment_name": "Glass Door Work Top Unit",
+        "professional_description": "Counter fridge with display.",
+        "technical_specifications": "Usage: Dessert/Salad station; Interior: Lit.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Glass+Door+Counter",
+        "slug": "glass-door-work-top-unit",
+        "specifications_object": {
+            "Usage": "Dessert/Salad station",
+            "Interior": "Lit."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 198,
+        "category": "Refrigeration",
+        "equipment_name": "Ice Flaker Machine",
+        "professional_description": "Produces granular ice.",
+        "technical_specifications": "Usage: Seafood display/Medical; Output: Continuous.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ice+Flaker",
+        "slug": "ice-flaker-machine",
+        "specifications_object": {
+            "Usage": "Seafood display/Medical",
+            "Output": "Continuous."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 199,
+        "category": "Beverage & Bar",
+        "equipment_name": "Bar Stations",
+        "professional_description": "Cocktail prep unit.",
+        "technical_specifications": "Includes: Ice well, speed rail, sink, glass rinser.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bar+Station",
+        "slug": "bar-stations",
+        "specifications_object": {
+            "Includes": "Ice well, speed rail, sink, glass rinser."
+        },
+        "categories": [
+            "Beverage",
+            "Bar"
+        ],
+        "primary_category": "Beverage"
+    },
+    {
+        "id": 200,
+        "category": "Fabrication",
+        "equipment_name": "Exhaust Hoods",
+        "professional_description": "Ventilation canopy.",
+        "technical_specifications": "Filters: Baffle type SS; Lighting: Heat proof; Ducting: Required.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Exhaust+Hood",
+        "slug": "exhaust-hoods",
+        "specifications_object": {
+            "Filters": "Baffle type SS",
+            "Lighting": "Heat proof",
+            "Ducting": "Required."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 201,
+        "category": "Refrigeration",
+        "equipment_name": "Saladette Counter",
+        "professional_description": "Prep fridge with opening lid.",
+        "technical_specifications": "Top: Cutout for GN pans; Board: Poly cutting board.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Saladette",
+        "slug": "saladette-counter",
+        "specifications_object": {
+            "Top": "Cutout for GN pans",
+            "Board": "Poly cutting board."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 202,
+        "category": "Bakery & Refrigeration",
+        "equipment_name": "Retarder Proofers",
+        "professional_description": "Dough fermentation cabinet.",
+        "technical_specifications": "Function: Retard (Cool) then Proof (Heat/Humidify); Program: Timer based.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Retarder+Proofer",
+        "slug": "retarder-proofers",
+        "specifications_object": {
+            "Function": "Retard (Cool) then Proof (Heat/Humidify)",
+            "Program": "Timer based."
+        },
+        "categories": [
+            "Bakery",
+            "Refrigeration"
+        ],
+        "primary_category": "Bakery"
+    },
+    {
+        "id": 203,
+        "category": "Refrigeration",
+        "equipment_name": "Top Loading Chillers",
+        "professional_description": "Bottle cooler with sliding top lid.",
+        "technical_specifications": "Capacity: High bottle capacity; Dividers: Vertical wire.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Top+Loading+Chiller",
+        "slug": "top-loading-chillers",
+        "specifications_object": {
+            "Capacity": "High bottle capacity",
+            "Dividers": "Vertical wire."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 204,
+        "category": "Refrigeration",
+        "equipment_name": "Open Display Chiller",
+        "professional_description": "Grab-and-go case (Multideck).",
+        "technical_specifications": "Curtain: Air curtain + Night blind; Shelves: Tilting.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Open+Display+Chiller",
+        "slug": "open-display-chiller",
+        "specifications_object": {
+            "Curtain": "Air curtain + Night blind",
+            "Shelves": "Tilting."
+        },
+        "categories": [
+            "Refrigeration"
+        ],
+        "primary_category": "Refrigeration"
+    },
+    {
+        "id": 205,
+        "category": "Tools & Testing",
+        "equipment_name": "Infra Red Thermometer",
+        "professional_description": "Non-contact laser thermometer.",
+        "technical_specifications": "Range: -50 to 500°C; Ratio: Distance to spot ratio.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=IR+Thermometer",
+        "slug": "infra-red-thermometer",
+        "specifications_object": {
+            "Range": "-50 to 500°C",
+            "Ratio": "Distance to spot ratio."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 206,
+        "category": "Tools & Testing",
+        "equipment_name": "Min / Max Thermometer",
+        "professional_description": "Digital monitor.",
+        "technical_specifications": "Memory: High/Low recording; Sensor: Internal/External.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Min+Max+Thermometer",
+        "slug": "min-max-thermometer",
+        "specifications_object": {
+            "Memory": "High/Low recording",
+            "Sensor": "Internal/External."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 207,
+        "category": "Tools & Testing",
+        "equipment_name": "Ph Tester",
+        "professional_description": "Acidity meter.",
+        "technical_specifications": "Probe: Glass electrode; Readout: Digital pH 0-14.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ph+Tester",
+        "slug": "ph-tester",
+        "specifications_object": {
+            "Probe": "Glass electrode",
+            "Readout": "Digital pH 0-14."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 208,
+        "category": "Tools & Testing",
+        "equipment_name": "Hydro Meter",
+        "professional_description": "Liquid density tester (Specific gravity).",
+        "technical_specifications": "Material: Glass float; Scale: Brix/SG.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Hydro+Meter",
+        "slug": "hydro-meter",
+        "specifications_object": {
+            "Material": "Glass float",
+            "Scale": "Brix/SG."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 209,
+        "category": "Tools & Testing",
+        "equipment_name": "Probe Thermometer",
+        "professional_description": "Pen type food thermometer.",
+        "technical_specifications": "Needle: SS thin tip; Response: Instant read.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Probe+Thermometer",
+        "slug": "probe-thermometer",
+        "specifications_object": {
+            "Needle": "SS thin tip",
+            "Response": "Instant read."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 210,
+        "category": "Tools & Testing",
+        "equipment_name": "Regular Thermometer",
+        "professional_description": "Dial fridge/oven thermometer.",
+        "technical_specifications": "Mount: Hook/Stand; Face: Analog.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dial+Thermometer",
+        "slug": "regular-thermometer",
+        "specifications_object": {
+            "Mount": "Hook/Stand",
+            "Face": "Analog."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 211,
+        "category": "Tools & Testing",
+        "equipment_name": "Oil Tester",
+        "professional_description": "TPM meter for fryer oil.",
+        "technical_specifications": "Measure: Total Polar Materials %; Indication: Green/Yellow/Red light.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Oil+Tester",
+        "slug": "oil-tester",
+        "specifications_object": {
+            "Measure": "Total Polar Materials %",
+            "Indication": "Green/Yellow/Red light."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 212,
+        "category": "Tools & Testing",
+        "equipment_name": "Oven Thermometer",
+        "professional_description": "Heat resistant dial.",
+        "technical_specifications": "Range: 0-300°C; Material: SS casing.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Oven+Thermometer",
+        "slug": "oven-thermometer",
+        "specifications_object": {
+            "Range": "0-300°C",
+            "Material": "SS casing."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 213,
+        "category": "Tools & Testing",
+        "equipment_name": "Freezer Thermometer",
+        "professional_description": "Cold resistant dial.",
+        "technical_specifications": "Range: -30 to +30°C; Fluid: Non-toxic spirit or bi-metal.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Freezer+Thermometer",
+        "slug": "freezer-thermometer",
+        "specifications_object": {
+            "Range": "-30 to +30°C",
+            "Fluid": "Non-toxic spirit or bi-metal."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 214,
+        "category": "Tools & Testing",
+        "equipment_name": "Oil Filtering Machine",
+        "professional_description": "Portable oil filtration unit.",
+        "technical_specifications": "Pump: Electric gear pump; Filter: Paper/Powder; Hose: High temp.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Oil+Filter+Machine",
+        "slug": "oil-filtering-machine",
+        "specifications_object": {
+            "Pump": "Electric gear pump",
+            "Filter": "Paper/Powder",
+            "Hose": "High temp."
+        },
+        "categories": [
+            "Tools",
+            "Testing"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 215,
+        "category": "Tools",
+        "equipment_name": "Measuring Cup & Spoon Set",
+        "professional_description": "Volume measures.",
+        "technical_specifications": "Standard: Metric/Imperial; Material: SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Measuring+Cups",
+        "slug": "measuring-cup-spoon-set",
+        "specifications_object": {
+            "Standard": "Metric/Imperial",
+            "Material": "SS."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 216,
+        "category": "Tools",
+        "equipment_name": "Measuring Jars",
+        "professional_description": "Liquid measures.",
+        "technical_specifications": "Material: Polycarbonate/SS; Markings: Embossed/Printed.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Measuring+Jars",
+        "slug": "measuring-jars",
+        "specifications_object": {
+            "Material": "Polycarbonate/SS",
+            "Markings": "Embossed/Printed."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 217,
+        "category": "Tools",
+        "equipment_name": "Table Top Scale",
+        "professional_description": "Portion scale.",
+        "technical_specifications": "Cap: 5-30kg; Platform: SS removable.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Table+Top+Scale",
+        "slug": "table-top-scale",
+        "specifications_object": {
+            "Cap": "5-30kg",
+            "Platform": "SS removable."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 218,
+        "category": "Tools",
+        "equipment_name": "Dial Scale",
+        "professional_description": "Mechanical scale.",
+        "technical_specifications": "Display: Large clock face; Reset: Tare knob.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Dial+Scale",
+        "slug": "dial-scale",
+        "specifications_object": {
+            "Display": "Large clock face",
+            "Reset": "Tare knob."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 219,
+        "category": "Tools",
+        "equipment_name": "Table Top Scales with Pole",
+        "professional_description": "Retail scale.",
+        "technical_specifications": "Display: Elevated double side; Function: Price computing.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pole+Scale",
+        "slug": "table-top-scales-with-pole",
+        "specifications_object": {
+            "Display": "Elevated double side",
+            "Function": "Price computing."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 220,
+        "category": "Tools",
+        "equipment_name": "Platform Scales",
+        "professional_description": "Receiving scale.",
+        "technical_specifications": "Cap: 100-300kg; Platform: Checker plate.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Platform+Scale",
+        "slug": "platform-scales",
+        "specifications_object": {
+            "Cap": "100-300kg",
+            "Platform": "Checker plate."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 221,
+        "category": "Tools",
+        "equipment_name": "H/Duty Platform Scales",
+        "professional_description": "Floor scale.",
+        "technical_specifications": "Cap: 500kg-1000kg; Ramp: Optional.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Heavy+Duty+Scale",
+        "slug": "h-duty-platform-scales",
+        "specifications_object": {
+            "Cap": "500kg-1000kg",
+            "Ramp": "Optional."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 222,
+        "category": "Tools",
+        "equipment_name": "Dead Weights",
+        "professional_description": "Calibration weights.",
+        "technical_specifications": "Class: M1/F1; Material: Brass/Cast Iron.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Calibration+Weights",
+        "slug": "dead-weights",
+        "specifications_object": {
+            "Class": "M1/F1",
+            "Material": "Brass/Cast Iron."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 223,
+        "category": "Tools",
+        "equipment_name": "Knife Sterilizer",
+        "professional_description": "UV or Water cabinet.",
+        "technical_specifications": "Method: UV Light or 82°C Water; Rack: Slotted magnetic.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Knife+Sterilizer",
+        "slug": "knife-sterilizer",
+        "specifications_object": {
+            "Method": "UV Light or 82°C Water",
+            "Rack": "Slotted magnetic."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 224,
+        "category": "Tools",
+        "equipment_name": "Carving Tools",
+        "professional_description": "Garde Manger tools.",
+        "technical_specifications": "Kit: Chisels, loops, knives; Case: Roll bag.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Carving+Tools",
+        "slug": "carving-tools",
+        "specifications_object": {
+            "Kit": "Chisels, loops, knives",
+            "Case": "Roll bag."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 225,
+        "category": "Tools",
+        "equipment_name": "Bag Sealers",
+        "professional_description": "Impulse sealer.",
+        "technical_specifications": "Element: Ni-Chrome wire; Width: 200-400mm.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bag+Sealer",
+        "slug": "bag-sealers",
+        "specifications_object": {
+            "Element": "Ni-Chrome wire",
+            "Width": "200-400mm."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 226,
+        "category": "Tools",
+        "equipment_name": "Insecticutors",
+        "professional_description": "Fly killer.",
+        "technical_specifications": "Grid: High voltage or Glue board; Bulbs: UV-A Shatterproof.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Fly+Killer",
+        "slug": "insecticutors",
+        "specifications_object": {
+            "Grid": "High voltage or Glue board",
+            "Bulbs": "UV-A Shatterproof."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 227,
+        "category": "Tools",
+        "equipment_name": "Wrapping Machine",
+        "professional_description": "Cling film dispenser.",
+        "technical_specifications": "Heater: Cut-off wire + Hot plate; Max width: 450mm.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wrapping+Machine",
+        "slug": "wrapping-machine",
+        "specifications_object": {
+            "Heater": "Cut-off wire + Hot plate",
+            "Max width": "450mm."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 228,
+        "category": "Fabrication",
+        "equipment_name": "Chopping Block W/ Stand",
+        "professional_description": "Butcher block.",
+        "technical_specifications": "Wood: End grain hard wood; Thickness: 4-6 inches.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Chopping+Block",
+        "slug": "chopping-block-w-stand",
+        "specifications_object": {
+            "Wood": "End grain hard wood",
+            "Thickness": "4-6 inches."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 229,
+        "category": "Fabrication",
+        "equipment_name": "Cutting Board & Stand",
+        "professional_description": "HACCP color boards.",
+        "technical_specifications": "Material: HDPE; Colors: Red, Blue, Green, Yellow, White, Brown.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cutting+Boards",
+        "slug": "cutting-board-stand",
+        "specifications_object": {
+            "Material": "HDPE",
+            "Colors": "Red, Blue, Green, Yellow, White, Brown."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 230,
+        "category": "Tools",
+        "equipment_name": "Vacuum Packing Machine",
+        "professional_description": "Chamber vacuum sealer.",
+        "technical_specifications": "Pump: Oil rotary; Bar: Single/Double seal.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Vacuum+Packer",
+        "slug": "vacuum-packing-machine",
+        "specifications_object": {
+            "Pump": "Oil rotary",
+            "Bar": "Single/Double seal."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 231,
+        "category": "Smallware",
+        "equipment_name": "Colour Coded Knife",
+        "professional_description": "Chef knives with colored handles.",
+        "technical_specifications": "Handle: Polypropylene; Blade: High carbon SS.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Colour+Knives",
+        "slug": "colour-coded-knife",
+        "specifications_object": {
+            "Handle": "Polypropylene",
+            "Blade": "High carbon SS."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 232,
+        "category": "Smallware",
+        "equipment_name": "Knife Sharpeners",
+        "professional_description": "Steel or Stone.",
+        "technical_specifications": "Type: Diamond/Ceramic/Steel rod.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Knife+Sharpener",
+        "slug": "knife-sharpeners",
+        "specifications_object": {
+            "Type": "Diamond/Ceramic/Steel rod."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 233,
+        "category": "Smallware",
+        "equipment_name": "Salad Spinner",
+        "professional_description": "Greens dryer.",
+        "technical_specifications": "Capacity: 10L/20L; Drive: Manual crank.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Salad+Spinner",
+        "slug": "salad-spinner",
+        "specifications_object": {
+            "Capacity": "10L/20L",
+            "Drive": "Manual crank."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 234,
+        "category": "Fabrication",
+        "equipment_name": "Wooden Chopping Block",
+        "professional_description": "See Chopping Block W/ Stand.",
+        "technical_specifications": "(Duplicate item description).",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Wood+Block",
+        "slug": "wooden-chopping-block",
+        "specifications_object": {
+            "note_0": "(Duplicate item description)."
+        },
+        "categories": [
+            "Fabrication"
+        ],
+        "primary_category": "Fabrication"
+    },
+    {
+        "id": 235,
+        "category": "Smallware",
+        "equipment_name": "Pizza Cutters",
+        "professional_description": "Wheel cutter.",
+        "technical_specifications": "Wheel: SS 4 inch; Guard: Finger guard.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Pizza+Cutter",
+        "slug": "pizza-cutters",
+        "specifications_object": {
+            "Wheel": "SS 4 inch",
+            "Guard": "Finger guard."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 236,
+        "category": "Smallware",
+        "equipment_name": "SS GN Pans",
+        "professional_description": "Gastronorm containers.",
+        "technical_specifications": "Sizes: 1/1, 1/2, 1/3, 1/4, 1/6, 1/9; Depth: 20-200mm.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=GN+Pans",
+        "slug": "ss-gn-pans",
+        "specifications_object": {
+            "Sizes": "1/1, 1/2, 1/3, 1/4, 1/6, 1/9",
+            "Depth": "20-200mm."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 237,
+        "category": "Smallware",
+        "equipment_name": "Polycarbonate GN Pans (Clear)",
+        "professional_description": "Cold storage pans.",
+        "technical_specifications": "Temp range: -40 to +99°C; Visibility: Clear.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=PC+GN+Pans",
+        "slug": "polycarbonate-gn-pans-clear",
+        "specifications_object": {
+            "Temp range": "-40 to +99°C",
+            "Visibility": "Clear."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 238,
+        "category": "Tools",
+        "equipment_name": "Magnetic Knife Holders",
+        "professional_description": "Wall strip.",
+        "technical_specifications": "Magnet: Rare earth; Length: 12/18/24 inch.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Magnetic+Knife+Holder",
+        "slug": "magnetic-knife-holders",
+        "specifications_object": {
+            "Magnet": "Rare earth",
+            "Length": "12/18/24 inch."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 239,
+        "category": "Tools",
+        "equipment_name": "Kitchen Timer",
+        "professional_description": "Countdown clock.",
+        "technical_specifications": "Channels: Single/Multi; Alarm: Audible.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Kitchen+Timer",
+        "slug": "kitchen-timer",
+        "specifications_object": {
+            "Channels": "Single/Multi",
+            "Alarm": "Audible."
+        },
+        "categories": [
+            "Tools"
+        ],
+        "primary_category": "Tools"
+    },
+    {
+        "id": 240,
+        "category": "Smallware",
+        "equipment_name": "Seal Tight GN Storage Boxes",
+        "professional_description": "Allergen safe boxes.",
+        "technical_specifications": "Lid: Silicone seal clips; Color: Purple/Clear.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Seal+Tight+Box",
+        "slug": "seal-tight-gn-storage-boxes",
+        "specifications_object": {
+            "Lid": "Silicone seal clips",
+            "Color": "Purple/Clear."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 241,
+        "category": "Smallware",
+        "equipment_name": "Polycarbonate GN Pans (Black)",
+        "professional_description": "Display pans.",
+        "technical_specifications": "Color: Black gloss; Usage: Cold buffet.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Black+GN+Pans",
+        "slug": "polycarbonate-gn-pans-black",
+        "specifications_object": {
+            "Color": "Black gloss",
+            "Usage": "Cold buffet."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 242,
+        "category": "Smallware",
+        "equipment_name": "SS Kitchen Accessories",
+        "professional_description": "Ladles, tongs, whisks.",
+        "technical_specifications": "Material: SS 304 one piece.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Kitchen+Tools",
+        "slug": "ss-kitchen-accessories",
+        "specifications_object": {
+            "Material": "SS 304 one piece."
+        },
+        "categories": [
+            "Smallware"
+        ],
+        "primary_category": "Smallware"
+    },
+    {
+        "id": 243,
+        "category": "Cookware",
+        "equipment_name": "SS Cookware",
+        "professional_description": "Pots and pans.",
+        "technical_specifications": "Bottom: Sandwich (SS-Alu-SS); Induction: Compatible.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=SS+Cookware",
+        "slug": "ss-cookware",
+        "specifications_object": {
+            "Bottom": "Sandwich (SS-Alu-SS)",
+            "Induction": "Compatible."
+        },
+        "categories": [
+            "Cookware"
+        ],
+        "primary_category": "Cookware"
+    },
+    {
+        "id": 244,
+        "category": "Cookware",
+        "equipment_name": "MS Tawa & Kadai",
+        "professional_description": "Iron vessels.",
+        "technical_specifications": "Material: Mild Steel; Seasoning: Required.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=MS+Tawa+Kadai",
+        "slug": "ms-tawa-kadai",
+        "specifications_object": {
+            "Material": "Mild Steel",
+            "Seasoning": "Required."
+        },
+        "categories": [
+            "Cookware"
+        ],
+        "primary_category": "Cookware"
+    },
+    {
+        "id": 245,
+        "category": "Cookware",
+        "equipment_name": "Non stick Cookware",
+        "professional_description": "Coated aluminum.",
+        "technical_specifications": "Coating: PTFE/Ceramic; Handle: Riveted.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Non+Stick+Cookware",
+        "slug": "non-stick-cookware",
+        "specifications_object": {
+            "Coating": "PTFE/Ceramic",
+            "Handle": "Riveted."
+        },
+        "categories": [
+            "Cookware"
+        ],
+        "primary_category": "Cookware"
+    },
+    {
+        "id": 246,
+        "category": "Cookware",
+        "equipment_name": "Aluminum Cookware",
+        "professional_description": "Stock pots.",
+        "technical_specifications": "Material: Heavy gauge aluminum; Conductivity: High.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Alu+Cookware",
+        "slug": "aluminum-cookware",
+        "specifications_object": {
+            "Material": "Heavy gauge aluminum",
+            "Conductivity": "High."
+        },
+        "categories": [
+            "Cookware"
+        ],
+        "primary_category": "Cookware"
+    },
+    {
+        "id": 247,
+        "category": "Tableware",
+        "equipment_name": "Ceramic Crockery",
+        "professional_description": "Plates and bowls.",
+        "technical_specifications": "Type: Vitrified hotelware; Edge: Rolled chip resistant.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Ceramic+Crockery",
+        "slug": "ceramic-crockery",
+        "specifications_object": {
+            "Type": "Vitrified hotelware",
+            "Edge": "Rolled chip resistant."
+        },
+        "categories": [
+            "Tableware"
+        ],
+        "primary_category": "Tableware"
+    },
+    {
+        "id": 248,
+        "category": "Tableware",
+        "equipment_name": "Cutlery",
+        "professional_description": "Flatware.",
+        "technical_specifications": "Grade: 18/10 or 18/0 SS; Polish: Mirror/Satin.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Cutlery",
+        "slug": "cutlery",
+        "specifications_object": {
+            "Grade": "18/10 or 18/0 SS",
+            "Polish": "Mirror/Satin."
+        },
+        "categories": [
+            "Tableware"
+        ],
+        "primary_category": "Tableware"
+    },
+    {
+        "id": 249,
+        "category": "Tableware",
+        "equipment_name": "Glassware & Crystalware",
+        "professional_description": "Drinkware.",
+        "technical_specifications": "Glass: Tempered/Soda lime; Rim: Beaded/Fine.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Glassware",
+        "slug": "glassware-crystalware",
+        "specifications_object": {
+            "Glass": "Tempered/Soda lime",
+            "Rim": "Beaded/Fine."
+        },
+        "categories": [
+            "Tableware"
+        ],
+        "primary_category": "Tableware"
+    },
+    {
+        "id": 250,
+        "category": "Tableware",
+        "equipment_name": "Bread Basket",
+        "professional_description": "Table service.",
+        "technical_specifications": "Material: Poly-wicker/SS/Canvas.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Bread+Basket",
+        "slug": "bread-basket",
+        "specifications_object": {
+            "Material": "Poly-wicker/SS/Canvas."
+        },
+        "categories": [
+            "Tableware"
+        ],
+        "primary_category": "Tableware"
+    },
+    {
+        "id": 251,
+        "category": "Tableware",
+        "equipment_name": "Menu Folder & Bill Folder",
+        "professional_description": "Guest service folders.",
+        "technical_specifications": "Material: PU Leather/Wood; Pockets: Transparent PVC.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Menu+Folder",
+        "slug": "menu-folder-bill-folder",
+        "specifications_object": {
+            "Material": "PU Leather/Wood",
+            "Pockets": "Transparent PVC."
+        },
+        "categories": [
+            "Tableware"
+        ],
+        "primary_category": "Tableware"
+    },
+    {
+        "id": 252,
+        "category": "Tableware",
+        "equipment_name": "Table Cloth & Napkin",
+        "professional_description": "Table linen.",
+        "technical_specifications": "Material: Cotton/Polyester/Damask; Design: Plain/Jacquard.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Table+Linen",
+        "slug": "table-cloth-napkin",
+        "specifications_object": {
+            "Material": "Cotton/Polyester/Damask",
+            "Design": "Plain/Jacquard."
+        },
+        "categories": [
+            "Tableware"
+        ],
+        "primary_category": "Tableware"
+    },
+    {
+        "id": 253,
+        "category": "Tableware",
+        "equipment_name": "Table Accessories",
+        "professional_description": "Salt/Pepper shakers, candle holders.",
+        "technical_specifications": "Material: SS/Acrylic/Glass.",
+        "image_url": "https://placehold.co/600x400/e0e0e0/333333.png?text=Table+Accessories",
+        "slug": "table-accessories",
+        "specifications_object": {
+            "Material": "SS/Acrylic/Glass."
+        },
+        "categories": [
+            "Tableware"
+        ],
+        "primary_category": "Tableware"
+    }
+]

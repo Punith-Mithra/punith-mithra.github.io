@@ -9,6 +9,7 @@ export function createPageUrl(pageName: string): string {
     'About': '/about',
     'Services': '/services',
     'Projects': '/projects',
+    'Products': '/products',
     'Contact': '/contact',
   };
   
