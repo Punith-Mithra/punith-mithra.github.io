@@ -60,7 +60,7 @@ export default function WhyChooseUs() {
               <span className="text-blue-400">Professional Solutions</span>
             </h2>
             <p className="text-slate-400 text-lg mb-8 leading-relaxed">
-              With over 15 years of experience in the industry, AL IMTIYAZ has established itself as 
+              With over 15 years of experience in the industry, AL IMTIAZ TRADING has established itself as 
               a leading provider of kitchen and laundry solutions in the region. We pride ourselves 
               on delivering quality, efficiency, and exceptional customer service.
             </p>

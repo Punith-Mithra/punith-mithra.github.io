@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# AL IMTIYAZ Website - GitHub Deployment Setup Script
+# AL IMTIAZ TRADING Website - GitHub Deployment Setup Script
 
-echo "🚀 AL IMTIYAZ Website - GitHub Deployment Setup"
+echo "🚀 AL IMTIAZ TRADING Website - GitHub Deployment Setup"
 echo "================================================"
 echo ""
 
@@ -36,7 +36,7 @@ if ! git show-ref --verify --quiet refs/heads/publish; then
     if [ -n "$(git status --porcelain)" ]; then
         echo "📝 Committing current changes..."
         git add .
-        git commit -m "Initial commit - AL IMTIYAZ website"
+        git commit -m "Initial commit - AL IMTIAZ TRADING website"
         echo "✅ Changes committed"
     fi
     

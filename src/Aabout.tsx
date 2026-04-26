@@ -66,7 +66,7 @@ export default function About() {
       <PageHero
         badge="About Us"
         title="Building Excellence in Kitchen & Laundry Solutions"
-        subtitle="AL IMTIYAZ has been at the forefront of commercial kitchen and laundry facility planning for over 15 years."
+        subtitle="AL IMTIAZ TRADING has been at the forefront of commercial kitchen and laundry facility planning for over 15 years."
       />
 
       {/* Main Content */}
@@ -83,7 +83,7 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-slate-600 leading-relaxed">
                 <p>
-                  AL IMTIYAZ provides complete kitchen and laundry solutions for residential 
+                  AL IMTIAZ TRADING provides complete kitchen and laundry solutions for residential 
                   and commercial projects. We specialize in workflow design, layout planning, 
                   equipment selection, installation, commissioning, and after-sales service.
                 </p>

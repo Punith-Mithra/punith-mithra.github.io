@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
 import { Menu, X, Phone, Mail } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { CONTACT, COMPANY, NAV_LINKS } from '@/constants';
+import { CONTACT, COMPANY, IMAGES, NAV_LINKS } from '@/constants';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -48,18 +48,12 @@ export default function Navbar() {
           }`}>
           <div className="flex items-center justify-between">
             {/* Logo */}
-            <Link to={createPageUrl('Home')} className="flex items-center gap-3">
-              <div className={`bg-gradient-primary rounded-lg flex items-center justify-center transition-all duration-200 ease-out ${scrolled ? 'w-10 h-10' : 'w-12 h-12'
-                }`}>
-                <span className={`text-white font-bold transition-all duration-200 ease-out ${scrolled ? 'text-base' : 'text-lg'
-                  }`}>AI</span>
-              </div>
-              <div className="transition-all duration-200 ease-out">
-                <h1 className={`font-bold text-slate-900 tracking-tight transition-all duration-200 ease-out ${scrolled ? 'text-lg' : 'text-xl'
-                  }`}>AL IMTIYAZ</h1>
-                <p className={`text-slate-500 tracking-wide transition-all duration-200 ease-out ${scrolled ? 'text-[10px]' : 'text-xs'
-                  }`}>PROFESSIONAL SOLUTIONS</p>
-              </div>
+            <Link to={createPageUrl('Home')} className="flex items-center">
+              <img
+                src={IMAGES.logoPath}
+                alt={`${COMPANY.name} logo`}
+                className="object-contain min-w-[260px] w-[260px] h-auto"
+              />
             </Link>
 
             {/* Desktop Navigation */}

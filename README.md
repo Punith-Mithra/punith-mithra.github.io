@@ -1,6 +1,6 @@
-# AL IMTIYAZ - Kitchen & Laundry Solutions Website
+# AL IMTIAZ TRADING - Kitchen & Laundry Solutions Website
 
-A modern, professional website for AL IMTIYAZ, showcasing kitchen and laundry solutions for residential and commercial projects.
+A modern, professional website for AL IMTIAZ TRADING, showcasing kitchen and laundry solutions for residential and commercial projects.
 
 ## 🚀 Quick Start
 
@@ -65,4 +65,4 @@ For issues or questions, please contact the development team.
 
 ---
 
-Built with ❤️ for AL IMTIYAZ
+Built with ❤️ for AL IMTIAZ TRADING

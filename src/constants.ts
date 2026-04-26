@@ -5,12 +5,14 @@
  * Update these values to change site-wide information.
  */
 
+import logo from '@/assets/logo.png';
+
 // ==========================================
 // COMPANY INFORMATION
 // ==========================================
 
 export const COMPANY = {
-  name: 'AL IMTIYAZ',
+  name: 'AL IMTIAZ TRADING',
   tagline: 'PROFESSIONAL SOLUTIONS',
   fullName: 'Punith Mithra',
   description: 'Complete kitchen and laundry solutions for residential and commercial projects. We specialize in workflow design, layout planning, equipment supply, and after-sales service.',
@@ -18,7 +20,7 @@ export const COMPANY = {
   
   // Logo/Branding
   logoInitials: 'AI',
-  logoText: 'AL IMTIYAZ',
+  logoText: 'AL IMTIAZ TRADING',
 } as const;
 
 // ==========================================
@@ -27,12 +29,12 @@ export const COMPANY = {
 
 export const CONTACT = {
   phone: {
-    display: '+968 1234 5678',
-    link: 'tel:+96812345678',
+    display: '+968 9387 7830',
+    link: 'tel:+96893877830',
   },
   email: {
-    display: 'info@alimtiyaz.com',
-    link: 'mailto:info@alimtiyaz.com',
+    display: 'info@alimtiaztrading.com',
+    link: 'mailto:info@alimtiaztrading.com',
   },
   address: {
     full: 'Muscat, Sultanate of Oman',
@@ -74,9 +76,8 @@ export const SOCIAL_MEDIA = {
 // ==========================================
 
 export const SITE = {
-  url: 'https://punith-mithra.github.io',
-  domain: 'punith-mithra.github.io',
-  githubRepo: 'https://github.com/Punith-Mithra/punith-mithra.github.io',
+  url: 'https://alimtiaztrading.com',
+  domain: 'alimtiaztrading.com',
 } as const;
 
 // ==========================================
@@ -84,12 +85,12 @@ export const SITE = {
 // ==========================================
 
 export const SEO_DEFAULTS = {
-  siteName: 'Punith Mithra - Kitchen & Laundry Solutions',
-  defaultTitle: 'Punith Mithra | Professional Kitchen & Laundry Solutions',
+  siteName: 'AL IMTIAZ TRADING - Kitchen & Laundry Solutions',
+  defaultTitle: 'AL IMTIAZ TRADING | Professional Kitchen & Laundry Solutions',
   defaultDescription: 'Complete kitchen and laundry solutions for residential and commercial projects in Oman. Expert workflow design, layout planning, equipment supply, and after-sales service.',
   defaultKeywords: 'kitchen design, laundry planning, commercial kitchen, equipment supply, Oman, Muscat, kitchen layout, workflow design',
-  author: 'Punith Mithra',
-  twitterHandle: '@punithmithra',
+  author: 'AL IMTIAZ TRADING',
+  twitterHandle: '@alimtiaztrading',
 } as const;
 
 // ==========================================
@@ -203,7 +204,7 @@ export const API = {
 export const IMAGES = {
   defaultHeroImage: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1920&q=80',
   defaultThumbnail: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&q=80',
-  logoPath: '/images/logo.png', // Update when you add a logo file
+  logoPath: logo,
   faviconPath: '/favicon.ico',
 } as const;
 
